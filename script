@@ -1,1 +1,3529 @@
+coroutine.wrap(function()
+while true do task.wait()
+        game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 30
+    end
+end)()
+local L0_1,
+    L1_1,
+    L2_1,
+    L3_1,
+    L4_1,
+    L5_1,
+    L6_1,
+    L7_1,
+    L8_1,
+    L9_1,
+    L10_1,
+    L11_1,
+    L12_1,
+    L13_1,
+    L14_1,
+    L15_1,
+    L16_1,
+    L17_1,
+    L18_1,
+    L19_1,
+    L20_1
+L5_1 = loadstring
+L6_1 = game
+L7_1 = L6_1
+L6_1 = L6_1.HttpGet
+L8_1 = "https://raw.githubusercontent.com/dawid-scripts/UI-Libs/main/discord%20lib.txt"
+L6_1, L7_1, L8_1, L9_1, L10_1, L11_1, L12_1, L13_1, L14_1, L15_1, L16_1, L17_1, L18_1, L19_1, L20_1 =
+    L6_1(L7_1, L8_1, L9_1, L10_1, L11_1, L12_1, L13_1, L14_1, L15_1, L16_1, L17_1, L18_1, L19_1, L20_1)
+L5_1 = L5_1(L6_1, L7_1, L8_1, L9_1, L10_1, L11_1, L12_1, L13_1, L14_1, L15_1, L16_1, L17_1, L18_1, L19_1, L20_1)
+L5_1 = L5_1()
+L7_1 = L5_1
+L6_1 = L5_1.Window
+L8_1 = "discord library"
+L6_1 = L6_1(L7_1, L8_1)
+L8_1 = L6_1
+L7_1 = L6_1.Server
+L9_1 = "Preview"
+L10_1 = "http://www.roblox.com/asset/?id=6031075938"
+L7_1 = L7_1(L8_1, L9_1, L10_1)
+L9_1 = L7_1
+L8_1 = L7_1.Channel
+L10_1 = "Main"
+L8_1 = L8_1(L9_1, L10_1)
+L10_1 = L7_1
+L9_1 = L7_1.Channel
+L11_1 = "FE Dribbles OP ASF"
+L9_1 = L9_1(L10_1, L11_1)
+L11_1 = L7_1
+L10_1 = L7_1.Channel
+L12_1 = "Clothes"
+L10_1 = L10_1(L11_1, L12_1)
+L12_1 = L10_1
+L11_1 = L10_1.Button
+L13_1 = "Comp Wannabe Thug"
+function L14_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2
+    L0_2 = game
+    L0_2 = L0_2.Players
+    L0_2 = L0_2.LocalPlayer
+    L0_2 = L0_2.Character
+    L0_2 = L0_2.Shirt
+    L1_2 = "http://www.roblox.com/asset/?id=6749027419"
+    L0_2.ShirtTemplate = L1_2
+    L0_2 = game
+    L0_2 = L0_2.Players
+    L0_2 = L0_2.LocalPlayer
+    L0_2 = L0_2.Character
+    L0_2 = L0_2.Pants
+    L1_2 = "http://www.roblox.com/asset/?id=1259256792"
+    L0_2.PantsTemplate = L1_2
+end
+L11_1(L12_1, L13_1, L14_1)
+L12_1 = L10_1
+L11_1 = L10_1.Seperator
+L11_1(L12_1)
+L12_1 = L10_1
+L11_1 = L10_1.Button
+L13_1 = "LeSellout"
+function L14_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2
+    L0_2 = game
+    L0_2 = L0_2.Players
+    L0_2 = L0_2.LocalPlayer
+    L0_2 = L0_2.Character
+    L0_2 = L0_2.Shirt
+    L1_2 = "http://www.roblox.com/asset/?id=1275282054"
+    L0_2.ShirtTemplate = L1_2
+    L0_2 = game
+    L0_2 = L0_2.Players
+    L0_2 = L0_2.LocalPlayer
+    L0_2 = L0_2.Character
+    L0_2 = L0_2.Pants
+    L1_2 = "http://www.roblox.com/asset/?id=4638825402"
+    L0_2.PantsTemplate = L1_2
+end
+L11_1(L12_1, L13_1, L14_1)
+L12_1 = L10_1
+L11_1 = L10_1.Seperator
+L11_1(L12_1)
+L12_1 = L10_1
+L11_1 = L10_1.Button
+L13_1 = "Eilte Suit"
+function L14_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2
+    L0_2 = game
+    L0_2 = L0_2.Players
+    L0_2 = L0_2.LocalPlayer
+    L0_2 = L0_2.Character
+    L0_2 = L0_2.Shirt
+    L1_2 = "http://www.roblox.com/asset/?id=244089566"
+    L0_2.ShirtTemplate = L1_2
+    L0_2 = game
+    L0_2 = L0_2.Players
+    L0_2 = L0_2.LocalPlayer
+    L0_2 = L0_2.Character
+    L0_2 = L0_2.Pants
+    L1_2 = "http://www.roblox.com/asset/?id=244090028"
+    L0_2.PantsTemplate = L1_2
+end
+L11_1(L12_1, L13_1, L14_1)
+L12_1 = L10_1
+L11_1 = L10_1.Seperator
+L11_1(L12_1)
+L12_1 = L10_1
+L11_1 = L10_1.Button
+L13_1 = "Tune Squad"
+function L14_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2
+    L0_2 = game
+    L0_2 = L0_2.Players
+    L0_2 = L0_2.LocalPlayer
+    L0_2 = L0_2.Character
+    L0_2 = L0_2.Shirt
+    L1_2 = "http://www.roblox.com/asset/?id=5592664636"
+    L0_2.ShirtTemplate = L1_2
+    L0_2 = game
+    L0_2 = L0_2.Players
+    L0_2 = L0_2.LocalPlayer
+    L0_2 = L0_2.Character
+    L0_2 = L0_2.Pants
+    L1_2 = "http://www.roblox.com/asset/?id=5592733013"
+    L0_2.PantsTemplate = L1_2
+end
+L11_1(L12_1, L13_1, L14_1)
+L12_1 = L10_1
+L11_1 = L10_1.Seperator
+L11_1(L12_1)
+L12_1 = L10_1
+L11_1 = L10_1.Button
+L13_1 = "Vlone"
+function L14_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2
+    L0_2 = game
+    L0_2 = L0_2.Players
+    L0_2 = L0_2.LocalPlayer
+    L0_2 = L0_2.Character
+    L0_2 = L0_2.Shirt
+    L1_2 = "http://www.roblox.com/asset/?id=517169470"
+    L0_2.ShirtTemplate = L1_2
+    L0_2 = game
+    L0_2 = L0_2.Players
+    L0_2 = L0_2.LocalPlayer
+    L0_2 = L0_2.Character
+    L0_2 = L0_2.Pants
+    L1_2 = "http://www.roblox.com/asset/?id=393474031"
+    L0_2.PantsTemplate = L1_2
+end
+L11_1(L12_1, L13_1, L14_1)
+L12_1 = L10_1
+L11_1 = L10_1.Seperator
+L11_1(L12_1)
+L12_1 = L10_1
+L11_1 = L10_1.Button
+L13_1 = "Referee"
+function L14_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2
+    L0_2 = game
+    L0_2 = L0_2.Players
+    L0_2 = L0_2.LocalPlayer
+    L0_2 = L0_2.Character
+    L0_2 = L0_2.Shirt
+    L1_2 = "http://www.roblox.com/asset/?id=8303338"
+    L0_2.ShirtTemplate = L1_2
+    L0_2 = game
+    L0_2 = L0_2.Players
+    L0_2 = L0_2.LocalPlayer
+    L0_2 = L0_2.Character
+    L0_2 = L0_2.Pants
+    L1_2 = "http://www.roblox.com/asset/?id=3372791"
+    L0_2.PantsTemplate = L1_2
+end
+L11_1(L12_1, L13_1, L14_1)
+L12_1 = L10_1
+L11_1 = L10_1.Seperator
+L11_1(L12_1)
+L12_1 = L10_1
+L11_1 = L10_1.Button
+L13_1 = "Shirtless"
+function L14_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2
+    L0_2 = game
+    L0_2 = L0_2.Players
+    L0_2 = L0_2.LocalPlayer
+    L0_2 = L0_2.Character
+    L0_2 = L0_2.Shirt
+    L1_2 = "http://www.roblox.com/asset/?id="
+    L0_2.ShirtTemplate = L1_2
+end
+L11_1(L12_1, L13_1, L14_1)
+L12_1 = L9_1
+L11_1 = L9_1.Button
+L13_1 = "Crossover Right"
+function L14_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2
+    L0_2 = "LocalPlayer"
+    Player = L0_2
+    L0_2 = "8623497205"
+    AnimationId = L0_2
+    L0_2 = Instance
+    L0_2 = L0_2.new
+    L1_2 = "Animation"
+    L0_2 = L0_2(L1_2)
+    L1_2 = "rbxassetid://"
+    L2_2 = AnimationId
+    L1_2 = L1_2 .. L2_2
+    L0_2.AnimationId = L1_2
+    L1_2 = game
+    L1_2 = L1_2.Players
+    L2_2 = Player
+    L1_2 = L1_2[L2_2]
+    L1_2 = L1_2.Character
+    L1_2 = L1_2.Humanoid
+    L2_2 = L1_2
+    L1_2 = L1_2.LoadAnimation
+    L3_2 = L0_2
+    L1_2 = L1_2(L2_2, L3_2)
+    L3_2 = L1_2
+    L2_2 = L1_2.Play
+    L2_2(L3_2)
+    L3_2 = L1_2
+    L2_2 = L1_2.AdjustSpeed
+    L4_2 = 2
+    L2_2(L3_2, L4_2)
+end
+L11_1(L12_1, L13_1, L14_1)
+L12_1 = L9_1
+L11_1 = L9_1.Button
+L13_1 = "Crossover Left"
+function L14_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2
+    L0_2 = "LocalPlayer"
+    Player = L0_2
+    L0_2 = "8623587335"
+    AnimationId = L0_2
+    L0_2 = Instance
+    L0_2 = L0_2.new
+    L1_2 = "Animation"
+    L0_2 = L0_2(L1_2)
+    L1_2 = "rbxassetid://"
+    L2_2 = AnimationId
+    L1_2 = L1_2 .. L2_2
+    L0_2.AnimationId = L1_2
+    L1_2 = game
+    L1_2 = L1_2.Players
+    L2_2 = Player
+    L1_2 = L1_2[L2_2]
+    L1_2 = L1_2.Character
+    L1_2 = L1_2.Humanoid
+    L2_2 = L1_2
+    L1_2 = L1_2.LoadAnimation
+    L3_2 = L0_2
+    L1_2 = L1_2(L2_2, L3_2)
+    L3_2 = L1_2
+    L2_2 = L1_2.Play
+    L2_2(L3_2)
+    L3_2 = L1_2
+    L2_2 = L1_2.AdjustSpeed
+    L4_2 = 2
+    L2_2(L3_2, L4_2)
+end
+L11_1(L12_1, L13_1, L14_1)
+L12_1 = L9_1
+L11_1 = L9_1.Button
+L13_1 = "Fake Pass (OP)"
+function L14_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2
+    L0_2 = "LocalPlayer"
+    Player = L0_2
+    L0_2 = "7246515625"
+    AnimationId = L0_2
+    L0_2 = Instance
+    L0_2 = L0_2.new
+    L1_2 = "Animation"
+    L0_2 = L0_2(L1_2)
+    L1_2 = "rbxassetid://"
+    L2_2 = AnimationId
+    L1_2 = L1_2 .. L2_2
+    L0_2.AnimationId = L1_2
+    L1_2 = game
+    L1_2 = L1_2.Players
+    L2_2 = Player
+    L1_2 = L1_2[L2_2]
+    L1_2 = L1_2.Character
+    L1_2 = L1_2.Humanoid
+    L2_2 = L1_2
+    L1_2 = L1_2.LoadAnimation
+    L3_2 = L0_2
+    L1_2 = L1_2(L2_2, L3_2)
+    L3_2 = L1_2
+    L2_2 = L1_2.Play
+    L2_2(L3_2)
+    L3_2 = L1_2
+    L2_2 = L1_2.AdjustSpeed
+    L4_2 = 1
+    L2_2(L3_2, L4_2)
+end
+L11_1(L12_1, L13_1, L14_1)
+L12_1 = L9_1
+L11_1 = L9_1.Button
+L13_1 = "BehindTheBackLeftFront"
+function L14_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2
+    L0_2 = "LocalPlayer"
+    Player = L0_2
+    L0_2 = "8607683688"
+    AnimationId = L0_2
+    L0_2 = Instance
+    L0_2 = L0_2.new
+    L1_2 = "Animation"
+    L0_2 = L0_2(L1_2)
+    L1_2 = "rbxassetid://"
+    L2_2 = AnimationId
+    L1_2 = L1_2 .. L2_2
+    L0_2.AnimationId = L1_2
+    L1_2 = game
+    L1_2 = L1_2.Players
+    L2_2 = Player
+    L1_2 = L1_2[L2_2]
+    L1_2 = L1_2.Character
+    L1_2 = L1_2.Humanoid
+    L2_2 = L1_2
+    L1_2 = L1_2.LoadAnimation
+    L3_2 = L0_2
+    L1_2 = L1_2(L2_2, L3_2)
+    L3_2 = L1_2
+    L2_2 = L1_2.Play
+    L2_2(L3_2)
+    L3_2 = L1_2
+    L2_2 = L1_2.AdjustSpeed
+    L4_2 = 2
+    L2_2(L3_2, L4_2)
+end
+L11_1(L12_1, L13_1, L14_1)
+L12_1 = L9_1
+L11_1 = L9_1.Button
+L13_1 = "BehindTheBackRightFront"
+function L14_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2
+    L0_2 = "LocalPlayer"
+    Player = L0_2
+    L0_2 = "8607608411"
+    AnimationId = L0_2
+    L0_2 = Instance
+    L0_2 = L0_2.new
+    L1_2 = "Animation"
+    L0_2 = L0_2(L1_2)
+    L1_2 = "rbxassetid://"
+    L2_2 = AnimationId
+    L1_2 = L1_2 .. L2_2
+    L0_2.AnimationId = L1_2
+    L1_2 = game
+    L1_2 = L1_2.Players
+    L2_2 = Player
+    L1_2 = L1_2[L2_2]
+    L1_2 = L1_2.Character
+    L1_2 = L1_2.Humanoid
+    L2_2 = L1_2
+    L1_2 = L1_2.LoadAnimation
+    L3_2 = L0_2
+    L1_2 = L1_2(L2_2, L3_2)
+    L3_2 = L1_2
+    L2_2 = L1_2.Play
+    L2_2(L3_2)
+    L3_2 = L1_2
+    L2_2 = L1_2.AdjustSpeed
+    L4_2 = 2
+    L2_2(L3_2, L4_2)
+end
+L11_1(L12_1, L13_1, L14_1)
+L12_1 = L9_1
+L11_1 = L9_1.Button
+L13_1 = "HesitationRight"
+function L14_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2
+    L0_2 = "LocalPlayer"
+    Player = L0_2
+    L0_2 = "8623769133"
+    AnimationId = L0_2
+    L0_2 = Instance
+    L0_2 = L0_2.new
+    L1_2 = "Animation"
+    L0_2 = L0_2(L1_2)
+    L1_2 = "rbxassetid://"
+    L2_2 = AnimationId
+    L1_2 = L1_2 .. L2_2
+    L0_2.AnimationId = L1_2
+    L1_2 = game
+    L1_2 = L1_2.Players
+    L2_2 = Player
+    L1_2 = L1_2[L2_2]
+    L1_2 = L1_2.Character
+    L1_2 = L1_2.Humanoid
+    L2_2 = L1_2
+    L1_2 = L1_2.LoadAnimation
+    L3_2 = L0_2
+    L1_2 = L1_2(L2_2, L3_2)
+    L3_2 = L1_2
+    L2_2 = L1_2.Play
+    L2_2(L3_2)
+    L3_2 = L1_2
+    L2_2 = L1_2.AdjustSpeed
+    L4_2 = 2
+    L2_2(L3_2, L4_2)
+end
+L11_1(L12_1, L13_1, L14_1)
+L12_1 = L9_1
+L11_1 = L9_1.Button
+L13_1 = "HesitationLeft"
+function L14_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2
+    L0_2 = "LocalPlayer"
+    Player = L0_2
+    L0_2 = "8623829909"
+    AnimationId = L0_2
+    L0_2 = Instance
+    L0_2 = L0_2.new
+    L1_2 = "Animation"
+    L0_2 = L0_2(L1_2)
+    L1_2 = "rbxassetid://"
+    L2_2 = AnimationId
+    L1_2 = L1_2 .. L2_2
+    L0_2.AnimationId = L1_2
+    L1_2 = game
+    L1_2 = L1_2.Players
+    L2_2 = Player
+    L1_2 = L1_2[L2_2]
+    L1_2 = L1_2.Character
+    L1_2 = L1_2.Humanoid
+    L2_2 = L1_2
+    L1_2 = L1_2.LoadAnimation
+    L3_2 = L0_2
+    L1_2 = L1_2(L2_2, L3_2)
+    L3_2 = L1_2
+    L2_2 = L1_2.Play
+    L2_2(L3_2)
+    L3_2 = L1_2
+    L2_2 = L1_2.AdjustSpeed
+    L4_2 = 2
+    L2_2(L3_2, L4_2)
+end
+L11_1(L12_1, L13_1, L14_1)
+L12_1 = L9_1
+L11_1 = L9_1.Button
+L13_1 = "DoubleCrossRight"
+function L14_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2
+    L0_2 = "LocalPlayer"
+    Player = L0_2
+    L0_2 = "8221061245"
+    AnimationId = L0_2
+    L0_2 = Instance
+    L0_2 = L0_2.new
+    L1_2 = "Animation"
+    L0_2 = L0_2(L1_2)
+    L1_2 = "rbxassetid://"
+    L2_2 = AnimationId
+    L1_2 = L1_2 .. L2_2
+    L0_2.AnimationId = L1_2
+    L1_2 = game
+    L1_2 = L1_2.Players
+    L2_2 = Player
+    L1_2 = L1_2[L2_2]
+    L1_2 = L1_2.Character
+    L1_2 = L1_2.Humanoid
+    L2_2 = L1_2
+    L1_2 = L1_2.LoadAnimation
+    L3_2 = L0_2
+    L1_2 = L1_2(L2_2, L3_2)
+    L3_2 = L1_2
+    L2_2 = L1_2.Play
+    L2_2(L3_2)
+    L3_2 = L1_2
+    L2_2 = L1_2.AdjustSpeed
+    L4_2 = 1.5
+    L2_2(L3_2, L4_2)
+end
+L11_1(L12_1, L13_1, L14_1)
+L12_1 = L9_1
+L11_1 = L9_1.Button
+L13_1 = "DoubleCrossLeft"
+function L14_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2
+    L0_2 = "LocalPlayer"
+    Player = L0_2
+    L0_2 = "8221237777"
+    AnimationId = L0_2
+    L0_2 = Instance
+    L0_2 = L0_2.new
+    L1_2 = "Animation"
+    L0_2 = L0_2(L1_2)
+    L1_2 = "rbxassetid://"
+    L2_2 = AnimationId
+    L1_2 = L1_2 .. L2_2
+    L0_2.AnimationId = L1_2
+    L1_2 = game
+    L1_2 = L1_2.Players
+    L2_2 = Player
+    L1_2 = L1_2[L2_2]
+    L1_2 = L1_2.Character
+    L1_2 = L1_2.Humanoid
+    L2_2 = L1_2
+    L1_2 = L1_2.LoadAnimation
+    L3_2 = L0_2
+    L1_2 = L1_2(L2_2, L3_2)
+    L3_2 = L1_2
+    L2_2 = L1_2.Play
+    L2_2(L3_2)
+    L3_2 = L1_2
+    L2_2 = L1_2.AdjustSpeed
+    L4_2 = 1.5
+    L2_2(L3_2, L4_2)
+end
+L11_1(L12_1, L13_1, L14_1)
+L12_1 = L9_1
+L11_1 = L9_1.Button
+L13_1 = "DoubleBehindRight"
+function L14_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2
+    L0_2 = "LocalPlayer"
+    Player = L0_2
+    L0_2 = "8634569585"
+    AnimationId = L0_2
+    L0_2 = Instance
+    L0_2 = L0_2.new
+    L1_2 = "Animation"
+    L0_2 = L0_2(L1_2)
+    L1_2 = "rbxassetid://"
+    L2_2 = AnimationId
+    L1_2 = L1_2 .. L2_2
+    L0_2.AnimationId = L1_2
+    L1_2 = game
+    L1_2 = L1_2.Players
+    L2_2 = Player
+    L1_2 = L1_2[L2_2]
+    L1_2 = L1_2.Character
+    L1_2 = L1_2.Humanoid
+    L2_2 = L1_2
+    L1_2 = L1_2.LoadAnimation
+    L3_2 = L0_2
+    L1_2 = L1_2(L2_2, L3_2)
+    L3_2 = L1_2
+    L2_2 = L1_2.Play
+    L2_2(L3_2)
+    L3_2 = L1_2
+    L2_2 = L1_2.AdjustSpeed
+    L4_2 = 1.6
+    L2_2(L3_2, L4_2)
+end
+L11_1(L12_1, L13_1, L14_1)
+L12_1 = L9_1
+L11_1 = L9_1.Button
+L13_1 = "DoubleBehindLeft"
+function L14_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2
+    L0_2 = "LocalPlayer"
+    Player = L0_2
+    L0_2 = "8634460386"
+    AnimationId = L0_2
+    L0_2 = Instance
+    L0_2 = L0_2.new
+    L1_2 = "Animation"
+    L0_2 = L0_2(L1_2)
+    L1_2 = "rbxassetid://"
+    L2_2 = AnimationId
+    L1_2 = L1_2 .. L2_2
+    L0_2.AnimationId = L1_2
+    L1_2 = game
+    L1_2 = L1_2.Players
+    L2_2 = Player
+    L1_2 = L1_2[L2_2]
+    L1_2 = L1_2.Character
+    L1_2 = L1_2.Humanoid
+    L2_2 = L1_2
+    L1_2 = L1_2.LoadAnimation
+    L3_2 = L0_2
+    L1_2 = L1_2(L2_2, L3_2)
+    L3_2 = L1_2
+    L2_2 = L1_2.Play
+    L2_2(L3_2)
+    L3_2 = L1_2
+    L2_2 = L1_2.AdjustSpeed
+    L4_2 = 1.6
+    L2_2(L3_2, L4_2)
+end
+L11_1(L12_1, L13_1, L14_1)
+L12_1 = L9_1
+L11_1 = L9_1.Button
+L13_1 = "Drive Right"
+function L14_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2
+    L0_2 = "LocalPlayer"
+    Player = L0_2
+    L0_2 = "7246570421"
+    AnimationId = L0_2
+    L0_2 = Instance
+    L0_2 = L0_2.new
+    L1_2 = "Animation"
+    L0_2 = L0_2(L1_2)
+    L1_2 = "rbxassetid://"
+    L2_2 = AnimationId
+    L1_2 = L1_2 .. L2_2
+    L0_2.AnimationId = L1_2
+    L1_2 = game
+    L1_2 = L1_2.Players
+    L2_2 = Player
+    L1_2 = L1_2[L2_2]
+    L1_2 = L1_2.Character
+    L1_2 = L1_2.Humanoid
+    L2_2 = L1_2
+    L1_2 = L1_2.LoadAnimation
+    L3_2 = L0_2
+    L1_2 = L1_2(L2_2, L3_2)
+    L3_2 = L1_2
+    L2_2 = L1_2.Play
+    L2_2(L3_2)
+    L3_2 = L1_2
+    L2_2 = L1_2.AdjustSpeed
+    L4_2 = 1.5
+    L2_2(L3_2, L4_2)
+end
+L11_1(L12_1, L13_1, L14_1)
+L12_1 = L9_1
+L11_1 = L9_1.Button
+L13_1 = "Drive Left"
+function L14_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2
+    L0_2 = "LocalPlayer"
+    Player = L0_2
+    L0_2 = "7246572328"
+    AnimationId = L0_2
+    L0_2 = Instance
+    L0_2 = L0_2.new
+    L1_2 = "Animation"
+    L0_2 = L0_2(L1_2)
+    L1_2 = "rbxassetid://"
+    L2_2 = AnimationId
+    L1_2 = L1_2 .. L2_2
+    L0_2.AnimationId = L1_2
+    L1_2 = game
+    L1_2 = L1_2.Players
+    L2_2 = Player
+    L1_2 = L1_2[L2_2]
+    L1_2 = L1_2.Character
+    L1_2 = L1_2.Humanoid
+    L2_2 = L1_2
+    L1_2 = L1_2.LoadAnimation
+    L3_2 = L0_2
+    L1_2 = L1_2(L2_2, L3_2)
+    L3_2 = L1_2
+    L2_2 = L1_2.Play
+    L2_2(L3_2)
+    L3_2 = L1_2
+    L2_2 = L1_2.AdjustSpeed
+    L4_2 = 1.5
+    L2_2(L3_2, L4_2)
+end
+L11_1(L12_1, L13_1, L14_1)
+L12_1 = L9_1
+L11_1 = L9_1.Button
+L13_1 = "Funny Ankles"
+function L14_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2
+    L0_2 = "LocalPlayer"
+    Player = L0_2
+    L0_2 = "7246627430"
+    AnimationId = L0_2
+    L0_2 = Instance
+    L0_2 = L0_2.new
+    L1_2 = "Animation"
+    L0_2 = L0_2(L1_2)
+    L1_2 = "rbxassetid://"
+    L2_2 = AnimationId
+    L1_2 = L1_2 .. L2_2
+    L0_2.AnimationId = L1_2
+    L1_2 = game
+    L1_2 = L1_2.Players
+    L2_2 = Player
+    L1_2 = L1_2[L2_2]
+    L1_2 = L1_2.Character
+    L1_2 = L1_2.Humanoid
+    L2_2 = L1_2
+    L1_2 = L1_2.LoadAnimation
+    L3_2 = L0_2
+    L1_2 = L1_2(L2_2, L3_2)
+    L3_2 = L1_2
+    L2_2 = L1_2.Play
+    L2_2(L3_2)
+    L3_2 = L1_2
+    L2_2 = L1_2.AdjustSpeed
+    L4_2 = 1
+    L2_2(L3_2, L4_2)
+end
+L11_1(L12_1, L13_1, L14_1)
+L12_1 = L8_1
+L11_1 = L8_1.Button
+L13_1 = "Aimbot"
+function L14_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2, L5_2, L6_2, L7_2
+    L0_2 = L5_1
+    L1_2 = L0_2
+    L0_2 = L0_2.Notification
+    L2_2 = "Notification"
+    L3_2 = "Hold Down Q"
+    L4_2 = "Got it!"
+    L0_2(L1_2, L2_2, L3_2, L4_2)
+    L0_2 = game
+    L0_2 = L0_2.Players
+    L0_2 = L0_2.LocalPlayer
+    L1_2 = L0_2
+    L0_2 = L0_2.GetMouse
+    L0_2 = L0_2(L1_2)
+    L0_2 = L0_2.KeyDown
+    L1_2 = L0_2
+    L0_2 = L0_2.Connect
+    function L2_2(A0_3)
+        local L1_3, L2_3, L3_3, L4_3, L5_3, L6_3
+        if A0_3 == "q" then
+            L1_3 = {}
+            L1_3[1] = true
+            L2_3 = "Idle"
+            L1_3[2] = L2_3
+            L1_3[3] = false
+            L2_3 = game
+            L3_3 = L2_3
+            L2_3 = L2_3.GetService
+            L4_3 = "ReplicatedStorage"
+            L2_3 = L2_3(L3_3, L4_3)
+            L2_3 = L2_3.Remotes
+            L2_3 = L2_3.server
+            L2_3 = L2_3.shoot
+            L3_3 = L2_3
+            L2_3 = L2_3.FireServer
+            L4_3 = unpack
+            L5_3 = L1_3
+            L4_3, L5_3, L6_3 = L4_3(L5_3)
+            L2_3(L3_3, L4_3, L5_3, L6_3)
+            L2_3 = wait
+            L3_3 = 0.41
+            L2_3(L3_3)
+            L2_3 = {}
+            L2_3[1] = false
+            L2_3[2] = false
+            L3_3 = game
+            L4_3 = L3_3
+            L3_3 = L3_3.GetService
+            L5_3 = "ReplicatedStorage"
+            L3_3 = L3_3(L4_3, L5_3)
+            L3_3 = L3_3.Remotes
+            L3_3 = L3_3.server
+            L3_3 = L3_3.shoot
+            L4_3 = L3_3
+            L3_3 = L3_3.FireServer
+            L5_3 = unpack
+            L6_3 = L2_3
+            L5_3, L6_3 = L5_3(L6_3)
+            L3_3(L4_3, L5_3, L6_3)
+        end
+    end
+    L0_2(L1_2, L2_2)
+end
+L11_1(L12_1, L13_1, L14_1)
+L12_1 = L8_1
+L11_1 = L8_1.Seperator
+L11_1(L12_1)
+L12_1 = L8_1
+L11_1 = L8_1.Button
+L13_1 = "Rebound Stealer"
+function L14_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2, L5_2, L6_2, L7_2
+    L0_2 = L5_1
+    L1_2 = L0_2
+    L0_2 = L0_2.Notification
+    L2_2 = "Notification"
+    L3_2 = "When a ball is coming down from a rebound or shot or anything u will be the first to rebound it"
+    L4_2 = "Got it!"
+    L0_2(L1_2, L2_2, L3_2, L4_2)
+    L0_2 = game
+    L0_2 = L0_2.Players
+    L0_2 = L0_2.LocalPlayer
+    L1_2 = game
+    L2_2 = L1_2
+    L1_2 = L1_2.GetService
+    L3_2 = "RunService"
+    L1_2 = L1_2(L2_2, L3_2)
+    function L2_2(A0_3)
+        local L1_3, L2_3, L3_3, L4_3, L5_3, L6_3
+        if not L1_3 then
+            L1_3 = L0_2
+            L1_3 = L1_3.Character
+            if L1_3 then
+                L1_3 = firetouchinterest
+                L2_3 = L0_2
+                L2_3 = L2_3.Character
+                L3_3 = "Left Arm"
+                L2_3 = L2_3[L3_3]
+                L3_3 = A0_3
+                L4_3 = 0
+                L1_3(L2_3, L3_3, L4_3)
+                L1_3 = task
+                L1_3 = L1_3.wait
+                L1_3()
+                L1_3 = firetouchinterest
+                L2_3 = L0_2
+                L2_3 = L2_3.Character
+                L3_3 = "Left Arm"
+                L2_3 = L2_3[L3_3]
+                L3_3 = A0_3
+                L4_3 = 1
+                L1_3(L2_3, L3_3, L4_3)
+            end
+        end
+    end
+    magBall = L2_2
+    L2_2 = L1_2.Stepped
+    L3_2 = L2_2
+    L2_2 = L2_2.Connect
+    function L4_2()
+        local L0_3, L1_3, L2_3, L3_3, L4_3, L5_3, L6_3, L7_3, L8_3, L9_3, L10_3
+        L0_3 = pairs
+        L1_3 = workspace
+        L2_3 = L1_3
+        L1_3 = L1_3.GetChildren
+        L1_3, L2_3, L3_3, L4_3, L5_3, L6_3, L7_3, L8_3, L9_3, L10_3 = L1_3(L2_3)
+        L0_3, L1_3, L2_3 = L0_3(L1_3, L2_3, L3_3, L4_3, L5_3, L6_3, L7_3, L8_3, L9_3, L10_3)
+        for L3_3, L4_3 in L0_3, L1_3, L2_3 do
+            L5_3 = L4_3.Name
+            L6_3 = "Basketball"
+            if L5_3 == L6_3 then
+                L6_3 = L4_3
+                L5_3 = L4_3.IsA
+                L7_3 = "BasePart"
+                L5_3 = L5_3(L6_3, L7_3)
+                if L5_3 then
+                    L5_3 = L0_2
+                    L5_3 = L5_3.Character
+                    L5_3 = L5_3.Torso
+                    L5_3 = L5_3.Position
+                    L6_3 = L4_3.Position
+                    L5_3 = L5_3 - L6_3
+                    L5_3 = L5_3.Magnitude
+                    L6_3 = magBall
+                    L7_3 = L4_3
+                    L6_3(L7_3)
+                end
+            end
+        end
+    end
+    L2_2(L3_2, L4_2)
+end
+L11_1(L12_1, L13_1, L14_1)
+L12_1 = L8_1
+L11_1 = L8_1.Seperator
+L11_1(L12_1)
+L12_1 = L8_1
+L11_1 = L8_1.Button
+L13_1 = "Auto Get Basketball (Only for Gym)"
+function L14_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2, L5_2, L6_2, L7_2, L8_2, L9_2, L10_2, L11_2, L12_2, L13_2
+    L0_2 = L5_1
+    L1_2 = L0_2
+    L0_2 = L0_2.Notification
+    L2_2 = "Notification"
+    L3_2 = "only foe gym"
+    L4_2 = "Got it!"
+    L0_2(L1_2, L2_2, L3_2, L4_2)
+    L0_2 = game
+    L0_2 = L0_2.Players
+    L0_2 = L0_2.LocalPlayer
+    L0_2 = L0_2.Character
+    L0_2 = L0_2.HumanoidRootPart
+    L1_2 = CFrame
+    L1_2 = L1_2.new
+    L2_2 = 215.725098
+    L3_2 = -5.90000725
+    L4_2 = 12.2023811
+    L5_2 = -0.00631664693
+    L6_2 = -0.0806459039
+    L7_2 = -0.996722817
+    L8_2 = -8.70036078E-4
+    L9_2 = 0.996742725
+    L10_2 = -0.0806419998
+    L11_2 = 0.999979675
+    L12_2 = 3.57797777E-4
+    L13_2 = -0.00636623707
+    L1_2 = L1_2(L2_2, L3_2, L4_2, L5_2, L6_2, L7_2, L8_2, L9_2, L10_2, L11_2, L12_2, L13_2)
+    L0_2.CFrame = L1_2
+    L0_2 = wait
+    L1_2 = 1
+    L0_2(L1_2)
+    L0_2 = game
+    L0_2 = L0_2.Players
+    L0_2 = L0_2.LocalPlayer
+    L0_2 = L0_2.Character
+    L0_2 = L0_2.HumanoidRootPart
+    L1_2 = CFrame
+    L1_2 = L1_2.new
+    L2_2 = 215.700409
+    L3_2 = -5.90455484
+    L4_2 = -10.3627567
+    L5_2 = 4.75414534E-4
+    L6_2 = -0.0609293506
+    L7_2 = -0.998141944
+    L8_2 = 0.00462310622
+    L9_2 = 0.998131573
+    L10_2 = -0.0609265156
+    L11_2 = 0.999989212
+    L12_2 = -0.00458555063
+    L13_2 = 7.56209076E-4
+    L1_2 = L1_2(L2_2, L3_2, L4_2, L5_2, L6_2, L7_2, L8_2, L9_2, L10_2, L11_2, L12_2, L13_2)
+    L0_2.CFrame = L1_2
+    L0_2 = wait
+    L1_2 = 1
+    L0_2(L1_2)
+    L0_2 = game
+    L0_2 = L0_2.Players
+    L0_2 = L0_2.LocalPlayer
+    L0_2 = L0_2.Character
+    L0_2 = L0_2.HumanoidRootPart
+    L1_2 = CFrame
+    L1_2 = L1_2.new
+    L2_2 = 215.702103
+    L3_2 = -5.8966341
+    L4_2 = 38.3396225
+    L5_2 = 0.00218852051
+    L6_2 = -0.0653337538
+    L7_2 = -0.997861087
+    L8_2 = -0.00599484891
+    L9_2 = 0.997844696
+    L10_2 = -0.0653458312
+    L11_2 = 0.999979615
+    L12_2 = 0.00612503709
+    L13_2 = 0.00179213751
+    L1_2 = L1_2(L2_2, L3_2, L4_2, L5_2, L6_2, L7_2, L8_2, L9_2, L10_2, L11_2, L12_2, L13_2)
+    L0_2.CFrame = L1_2
+    L0_2 = wait
+    L1_2 = 1
+    L0_2(L1_2)
+    L0_2 = game
+    L0_2 = L0_2.Players
+    L0_2 = L0_2.LocalPlayer
+    L0_2 = L0_2.Character
+    L0_2 = L0_2.HumanoidRootPart
+    L1_2 = CFrame
+    L1_2 = L1_2.new
+    L2_2 = 163.737228
+    L3_2 = -5.81951427
+    L4_2 = 13.8195095
+    L5_2 = -0.999996901
+    L6_2 = -1.11143228E-9
+    L7_2 = 0.00247791177
+    L8_2 = -1.09841825E-9
+    L9_2 = 1
+    L10_2 = 5.25338928E-9
+    L11_2 = -0.00247791177
+    L12_2 = 5.25065147E-9
+    L13_2 = -0.999996901
+    L1_2 = L1_2(L2_2, L3_2, L4_2, L5_2, L6_2, L7_2, L8_2, L9_2, L10_2, L11_2, L12_2, L13_2)
+    L0_2.CFrame = L1_2
+end
+L11_1(L12_1, L13_1, L14_1)
+L12_1 = L8_1
+L11_1 = L8_1.Seperator
+L11_1(L12_1)
+L12_1 = L8_1
+L11_1 = L8_1.Button
+L13_1 = "Auto Score (DO NOT EXECUTE ANTI CONTEST)"
+function L14_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2, L5_2, L6_2, L7_2, L8_2, L9_2, L10_2, L11_2, L12_2, L13_2, L14_2, L15_2, L16_2
+    L0_2 = L5_1
+    L1_2 = L0_2
+    L0_2 = L0_2.Notification
+    L2_2 = "Notification"
+    L3_2 = "(Q OR E) DO NOT EXECUTE ANTI CONTEST BEFORE OR AFTER USING THIS SCRIPT (IT WILL BRAKE YOUR GAME)"
+    L4_2 = "Got it!"
+    L0_2(L1_2, L2_2, L3_2, L4_2)
+    L0_2 = 20
+    L1_2 = workspace
+    L2_2 = tonumber
+    L3_2 = L0_2
+    L2_2 = L2_2(L3_2)
+    if L1_2 then
+        L2_2 = 196.2
+    end
+    L1_2.Gravity = L2_2
+    L1_2 = game
+    L1_2 = L1_2.Players
+    L1_2 = L1_2.LocalPlayer
+    L2_2 = L1_2
+    L1_2 = L1_2.GetMouse
+    L1_2 = L1_2(L2_2)
+    L2_2 = false
+    L3_2 = Instance
+    L3_2 = L3_2.new
+    L4_2 = "Part"
+    L5_2 = game
+    L5_2 = L5_2.Lighting
+    L3_2 = L3_2(L4_2, L5_2)
+    L3_2.Anchored = true
+    L4_2 = Vector3
+    L4_2 = L4_2.new
+    L5_2 = 700
+    L6_2 = 1
+    L7_2 = 700
+    L4_2 = L4_2(L5_2, L6_2, L7_2)
+    L3_2.Size = L4_2
+    L3_2.Transparency = 0.9
+    L4_2 = "Smooth"
+    L3_2.TopSurface = L4_2
+    L4_2 = L1_2.KeyDown
+    L5_2 = L4_2
+    L4_2 = L4_2.connect
+    function L6_2(A0_3)
+        local L1_3, L2_3, L3_3, L4_3, L5_3, L6_3, L7_3
+        if A0_3 == "q" then
+            L1_3 = game
+            L1_3 = L1_3.Players
+            L1_3 = L1_3.LocalPlayer
+            L1_3 = L1_3.Character
+            L2_3 = L1_3
+            L1_3 = L1_3.SetPrimaryPartCFrame
+            L3_3 = game
+            L3_3 = L3_3.Players
+            L3_3 = L3_3.LocalPlayer
+            L3_3 = L3_3.Character
+            L4_3 = L3_3
+            L3_3 = L3_3.GetPrimaryPartCFrame
+            L3_3 = L3_3(L4_3)
+            L4_3 = CFrame
+            L4_3 = L4_3.new
+            L5_3 = 0
+            L6_3 = 0
+            L7_3 = -40
+            L4_3 = L4_3(L5_3, L6_3, L7_3)
+            L3_3 = L3_3 * L4_3
+            L1_3(L2_3, L3_3)
+        end
+    end
+    L4_2(L5_2, L6_2)
+    L4_2 = game
+    L4_2 = L4_2.Players
+    L4_2 = L4_2.LocalPlayer
+    L5_2 = L4_2
+    L4_2 = L4_2.GetMouse
+    L4_2 = L4_2(L5_2)
+    L5_2 = false
+    L6_2 = Instance
+    L6_2 = L6_2.new
+    L7_2 = "Part"
+    L8_2 = game
+    L8_2 = L8_2.Lighting
+    L6_2 = L6_2(L7_2, L8_2)
+    L6_2.Anchored = true
+    L7_2 = Vector3
+    L7_2 = L7_2.new
+    L8_2 = 700
+    L9_2 = 1
+    L10_2 = 700
+    L7_2 = L7_2(L8_2, L9_2, L10_2)
+    L6_2.Size = L7_2
+    L6_2.Transparency = 0.9
+    L7_2 = "Smooth"
+    L6_2.TopSurface = L7_2
+    L7_2 = L4_2.KeyDown
+    L8_2 = L7_2
+    L7_2 = L7_2.connect
+    function L9_2(A0_3)
+        local L1_3, L2_3, L3_3, L4_3, L5_3, L6_3, L7_3
+        if A0_3 == "e" then
+            L1_3 = game
+            L1_3 = L1_3.Players
+            L1_3 = L1_3.LocalPlayer
+            L1_3 = L1_3.Character
+            L2_3 = L1_3
+            L1_3 = L1_3.SetPrimaryPartCFrame
+            L3_3 = game
+            L3_3 = L3_3.Players
+            L3_3 = L3_3.LocalPlayer
+            L3_3 = L3_3.Character
+            L4_3 = L3_3
+            L3_3 = L3_3.GetPrimaryPartCFrame
+            L3_3 = L3_3(L4_3)
+            L4_3 = CFrame
+            L4_3 = L4_3.new
+            L5_3 = 0
+            L6_3 = 0
+            L7_3 = -40
+            L4_3 = L4_3(L5_3, L6_3, L7_3)
+            L3_3 = L3_3 * L4_3
+            L1_3(L2_3, L3_3)
+        end
+    end
+    L7_2(L8_2, L9_2)
+    L7_2 = game
+    L7_2 = L7_2.Players
+    L7_2 = L7_2.LocalPlayer
+    L8_2 = L7_2
+    L7_2 = L7_2.GetMouse
+    L7_2 = L7_2(L8_2)
+    L8_2 = false
+    L9_2 = Instance
+    L9_2 = L9_2.new
+    L10_2 = "Part"
+    L11_2 = game
+    L11_2 = L11_2.Lighting
+    L9_2 = L9_2(L10_2, L11_2)
+    L9_2.Anchored = true
+    L10_2 = Vector3
+    L10_2 = L10_2.new
+    L11_2 = 700
+    L12_2 = 1
+    L13_2 = 700
+    L10_2 = L10_2(L11_2, L12_2, L13_2)
+    L9_2.Size = L10_2
+    L9_2.Transparency = 0.9
+    L10_2 = "Smooth"
+    L9_2.TopSurface = L10_2
+    L10_2 = L7_2.KeyDown
+    L11_2 = L10_2
+    L10_2 = L10_2.connect
+    function L12_2(A0_3)
+        local L1_3, L2_3, L3_3, L4_3, L5_3, L6_3, L7_3
+        if A0_3 == "e" then
+            L1_3 = game
+            L1_3 = L1_3.Players
+            L1_3 = L1_3.LocalPlayer
+            L1_3 = L1_3.Character
+            L2_3 = L1_3
+            L1_3 = L1_3.SetPrimaryPartCFrame
+            L3_3 = game
+            L3_3 = L3_3.Players
+            L3_3 = L3_3.LocalPlayer
+            L3_3 = L3_3.Character
+            L4_3 = L3_3
+            L3_3 = L3_3.GetPrimaryPartCFrame
+            L3_3 = L3_3(L4_3)
+            L4_3 = CFrame
+            L4_3 = L4_3.new
+            L5_3 = 0
+            L6_3 = 10
+            L7_3 = 0
+            L4_3 = L4_3(L5_3, L6_3, L7_3)
+            L3_3 = L3_3 * L4_3
+            L1_3(L2_3, L3_3)
+        end
+    end
+    L10_2(L11_2, L12_2)
+    L10_2 = game
+    L10_2 = L10_2.Players
+    L10_2 = L10_2.LocalPlayer
+    L11_2 = L10_2
+    L10_2 = L10_2.GetMouse
+    L10_2 = L10_2(L11_2)
+    L11_2 = false
+    L12_2 = Instance
+    L12_2 = L12_2.new
+    L13_2 = "Part"
+    L14_2 = game
+    L14_2 = L14_2.Lighting
+    L12_2 = L12_2(L13_2, L14_2)
+    L12_2.Anchored = true
+    L13_2 = Vector3
+    L13_2 = L13_2.new
+    L14_2 = 700
+    L15_2 = 1
+    L16_2 = 700
+    L13_2 = L13_2(L14_2, L15_2, L16_2)
+    L12_2.Size = L13_2
+    L12_2.Transparency = 0.9
+    L13_2 = "Smooth"
+    L12_2.TopSurface = L13_2
+    L13_2 = L10_2.KeyDown
+    L14_2 = L13_2
+    L13_2 = L13_2.connect
+    function L15_2(A0_3)
+        local L1_3, L2_3, L3_3, L4_3, L5_3, L6_3, L7_3
+        if A0_3 == "q" then
+            L1_3 = game
+            L1_3 = L1_3.Players
+            L1_3 = L1_3.LocalPlayer
+            L1_3 = L1_3.Character
+            L2_3 = L1_3
+            L1_3 = L1_3.SetPrimaryPartCFrame
+            L3_3 = game
+            L3_3 = L3_3.Players
+            L3_3 = L3_3.LocalPlayer
+            L3_3 = L3_3.Character
+            L4_3 = L3_3
+            L3_3 = L3_3.GetPrimaryPartCFrame
+            L3_3 = L3_3(L4_3)
+            L4_3 = CFrame
+            L4_3 = L4_3.new
+            L5_3 = 0
+            L6_3 = 10
+            L7_3 = 0
+            L4_3 = L4_3(L5_3, L6_3, L7_3)
+            L3_3 = L3_3 * L4_3
+            L1_3(L2_3, L3_3)
+        end
+    end
+    L13_2(L14_2, L15_2)
+end
+L11_1(L12_1, L13_1, L14_1)
+L12_1 = L8_1
+L11_1 = L8_1.Seperator
+L11_1(L12_1)
+L12_1 = L8_1
+L11_1 = L8_1.Button
+L13_1 = "Anti Contest"
+function L14_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2, L5_2, L6_2, L7_2, L8_2, L9_2, L10_2
+    L0_2 = L5_1
+    L1_2 = L0_2
+    L0_2 = L0_2.Notification
+    L2_2 = "Notification"
+    L3_2 = "Only free anti contest. Just hold hold e or if your using aimbot use q"
+    L4_2 = "Got it!"
+    L0_2(L1_2, L2_2, L3_2, L4_2)
+    L0_2 = 20
+    L1_2 = workspace
+    L2_2 = tonumber
+    L3_2 = L0_2
+    L2_2 = L2_2(L3_2)
+    if not L2_2 then
+        L2_2 = 196.2
+    end
+    L1_2.Gravity = L2_2
+    L1_2 = game
+    L1_2 = L1_2.Players
+    L1_2 = L1_2.LocalPlayer
+    L2_2 = L1_2
+    L1_2 = L1_2.GetMouse
+    L1_2 = L1_2(L2_2)
+    L2_2 = false
+    L3_2 = Instance
+    L3_2 = L3_2.new
+    L4_2 = "Part"
+    L5_2 = game
+    L5_2 = L5_2.Lighting
+    L3_2 = L3_2(L4_2, L5_2)
+    L3_2.Anchored = true
+    L4_2 = Vector3
+    L4_2 = L4_2.new
+    L5_2 = 700
+    L6_2 = 1
+    L7_2 = 700
+    L4_2 = L4_2(L5_2, L6_2, L7_2)
+    L3_2.Size = L4_2
+    L3_2.Transparency = 0.9
+    L4_2 = "Smooth"
+    L3_2.TopSurface = L4_2
+    L4_2 = L1_2.KeyDown
+    L5_2 = L4_2
+    L4_2 = L4_2.connect
+    function L6_2(A0_3)
+        local L1_3, L2_3, L3_3, L4_3, L5_3, L6_3, L7_3
+        if A0_3 == "e" then
+            L1_3 = game
+            L1_3 = L1_3.Players
+            L1_3 = L1_3.LocalPlayer
+            L1_3 = L1_3.Character
+            L2_3 = L1_3
+            L1_3 = L1_3.SetPrimaryPartCFrame
+            L3_3 = game
+            L3_3 = L3_3.Players
+            L3_3 = L3_3.LocalPlayer
+            L3_3 = L3_3.Character
+            L4_3 = L3_3
+            L3_3 = L3_3.GetPrimaryPartCFrame
+            L3_3 = L3_3(L4_3)
+            L4_3 = CFrame
+            L4_3 = L4_3.new
+            L5_3 = 0
+            L6_3 = 10
+            L7_3 = 0
+            L4_3 = L4_3(L5_3, L6_3, L7_3)
+            L3_3 = L3_3 * L4_3
+            L1_3(L2_3, L3_3)
+        end
+    end
+    L4_2(L5_2, L6_2)
+    L4_2 = game
+    L4_2 = L4_2.Players
+    L4_2 = L4_2.LocalPlayer
+    L5_2 = L4_2
+    L4_2 = L4_2.GetMouse
+    L4_2 = L4_2(L5_2)
+    L5_2 = false
+    L6_2 = Instance
+    L6_2 = L6_2.new
+    L7_2 = "Part"
+    L8_2 = game
+    L8_2 = L8_2.Lighting
+    L6_2 = L6_2(L7_2, L8_2)
+    L6_2.Anchored = true
+    L7_2 = Vector3
+    L7_2 = L7_2.new
+    L8_2 = 700
+    L9_2 = 1
+    L10_2 = 700
+    L7_2 = L7_2(L8_2, L9_2, L10_2)
+    L6_2.Size = L7_2
+    L6_2.Transparency = 0.9
+    L7_2 = "Smooth"
+    L6_2.TopSurface = L7_2
+    L7_2 = L4_2.KeyDown
+    L8_2 = L7_2
+    L7_2 = L7_2.connect
+    function L9_2(A0_3)
+        local L1_3, L2_3, L3_3, L4_3, L5_3, L6_3, L7_3
+        if A0_3 == "q" then
+            L1_3 = game
+            L1_3 = L1_3.Players
+            L1_3 = L1_3.LocalPlayer
+            L1_3 = L1_3.Character
+            L2_3 = L1_3
+            L1_3 = L1_3.SetPrimaryPartCFrame
+            L3_3 = game
+            L3_3 = L3_3.Players
+            L3_3 = L3_3.LocalPlayer
+            L3_3 = L3_3.Character
+            L4_3 = L3_3
+            L3_3 = L3_3.GetPrimaryPartCFrame
+            L3_3 = L3_3(L4_3)
+            L4_3 = CFrame
+            L4_3 = L4_3.new
+            L5_3 = 0
+            L6_3 = 10
+            L7_3 = 0
+            L4_3 = L4_3(L5_3, L6_3, L7_3)
+            L3_3 = L3_3 * L4_3
+            L1_3(L2_3, L3_3)
+        end
+    end
+    L7_2(L8_2, L9_2)
+end
+L11_1(L12_1, L13_1, L14_1)
+L12_1 = L8_1
+L11_1 = L8_1.Seperator
+L11_1(L12_1)
+L12_1 = L8_1
+L11_1 = L8_1.Button
+L13_1 = "Auto Block/Chase For Loose Ball (OP ASF)"
+function L14_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2, L5_2, L6_2, L7_2
+    L0_2 = L5_1
+    L1_2 = L0_2
+    L0_2 = L0_2.Notification
+    L2_2 = "Notification"
+    L3_2 = "Press F When A Ball is Released Or Loose"
+    L4_2 = "Got it!"
+    L0_2(L1_2, L2_2, L3_2, L4_2)
+    L0_2 = game
+    L1_2 = L0_2
+    L0_2 = L0_2.GetService
+    L2_2 = "Players"
+    L0_2 = L0_2(L1_2, L2_2)
+    L0_2 = L0_2.LocalPlayer
+    L0_2 = L0_2.Name
+    meme = L0_2
+    L0_2 = game
+    L0_2 = L0_2.Players
+    L0_2 = L0_2.LocalPlayer
+    L1_2 = L0_2
+    L0_2 = L0_2.GetMouse
+    L0_2 = L0_2(L1_2)
+    L0_2 = L0_2.KeyDown
+    L1_2 = L0_2
+    L0_2 = L0_2.connect
+    function L2_2(A0_3)
+        local L1_3, L2_3, L3_3, L4_3, L5_3, L6_3
+        if A0_3 == "f" then
+            L1_3 = 1
+            L2_3 = 2
+            L3_3 = 1
+            for L4_3 = L1_3, L2_3, L3_3 do
+                L5_3 = game
+                L5_3 = L5_3.Workspace
+                L6_3 = meme
+                L5_3 = L5_3[L6_3]
+                L5_3 = L5_3.HumanoidRootPart
+                L6_3 = game
+                L6_3 = L6_3.Workspace
+                L6_3 = L6_3.Basketball
+                L6_3 = L6_3.CFrame
+                L5_3.CFrame = L6_3
+            end
+        end
+    end
+    L0_2(L1_2, L2_2)
+end
+L11_1(L12_1, L13_1, L14_1)
+L12_1 = L8_1
+L11_1 = L8_1.Seperator
+L11_1(L12_1)
+L12_1 = L8_1
+L11_1 = L8_1.Button
+L13_1 = "Fly"
+function L14_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2, L5_2, L6_2, L7_2, L8_2, L9_2, L10_2, L11_2
+    L0_2 = L5_1
+    L1_2 = L0_2
+    L0_2 = L0_2.Notification
+    L2_2 = "Notification"
+    L3_2 = "E to fly"
+    L4_2 = "Got it!"
+    L0_2(L1_2, L2_2, L3_2, L4_2)
+    L0_2 = game
+    L0_2 = L0_2.Players
+    L0_2 = L0_2.LocalPlayer
+    L2_2 = L0_2
+    L1_2 = L0_2.GetMouse
+    L1_2 = L1_2(L2_2)
+    localplayer = L0_2
+    L2_2 = workspace
+    L3_2 = L2_2
+    L2_2 = L2_2.FindFirstChild
+    L4_2 = "Core"
+    L2_2 = L2_2(L3_2, L4_2)
+    if not L1_2 then
+        L2_2 = workspace
+        L2_2 = L2_2.Core
+        L3_2 = L2_2
+        L2_2 = L2_2.Destroy
+        L2_2(L3_2)
+    end
+    L2_2 = Instance
+    L2_2 = L2_2.new
+    L3_2 = "Part"
+    L2_2 = L2_2(L3_2)
+    L3_2 = "Core"
+    L2_2.Name = L3_2
+    L3_2 = Vector3
+    L3_2 = L3_2.new
+    L4_2 = 0.05
+    L5_2 = 0.05
+    L6_2 = 0.05
+    L3_2 = L3_2(L4_2, L5_2, L6_2)
+    L2_2.Size = L3_2
+    L3_2 = spawn
+    function L4_2()
+        local L0_3, L1_3, L2_3, L3_3, L4_3
+        L0_3 = L2_2
+        L1_3 = workspace
+        L0_3.Parent = L1_3
+        L0_3 = Instance
+        L0_3 = L0_3.new
+        L1_3 = "Weld"
+        L2_3 = L2_2
+        L0_3 = L0_3(L1_3, L2_3)
+        L1_3 = L2_2
+        L0_3.Part0 = L1_3
+        L1_3 = localplayer
+        L1_3 = L1_3.Character
+        L1_3 = L1_3.LowerTorso
+        L0_3.Part1 = L1_3
+        L1_3 = CFrame
+        L1_3 = L1_3.new
+        L2_3 = 0
+        L3_3 = 0
+        L4_3 = 0
+        L1_3 = L1_3(L2_3, L3_3, L4_3)
+        L0_3.C0 = L1_3
+    end
+    L3_2(L4_2)
+    L3_2 = workspace
+    L4_2 = L3_2
+    L3_2 = L3_2.WaitForChild
+    L5_2 = "Core"
+    L3_2(L4_2, L5_2)
+    L3_2 = workspace
+    L3_2 = L3_2.Core
+    L4_2 = true
+    flying = L4_2
+    L4_2 = 10
+    L5_2 = {}
+    L5_2.a = false
+    L5_2.d = false
+    L5_2.w = false
+    L5_2.s = false
+    L6_2 = nil
+    L7_2 = nil
+    function L8_2()
+        local L0_3, L1_3, L2_3, L3_3, L4_3, L5_3, L6_3, L7_3
+        L0_3 = Instance
+        L0_3 = L0_3.new
+        L1_3 = "BodyPosition"
+        L2_3 = L3_2
+        L0_3 = L0_3(L1_3, L2_3)
+        L1_3 = Instance
+        L1_3 = L1_3.new
+        L2_3 = "BodyGyro"
+        L3_3 = L3_2
+        L1_3 = L1_3(L2_3, L3_3)
+        L2_3 = "EPIXPOS"
+        L0_3.Name = L2_3
+        L2_3 = Vector3
+        L2_3 = L2_3.new
+        L3_3 = math
+        L3_3 = L3_3.huge
+        L4_3 = math
+        L4_3 = L4_3.huge
+        L5_3 = math
+        L5_3 = L5_3.huge
+        L2_3 = L2_3(L3_3, L4_3, L5_3)
+        L0_3.maxForce = L2_3
+        L2_3 = L3_2
+        L2_3 = L2_3.Position
+        L0_3.position = L2_3
+        L2_3 = Vector3
+        L2_3 = L2_3.new
+        L3_3 = 9000000000
+        L4_3 = 9000000000
+        L5_3 = 9000000000
+        L2_3 = L2_3(L3_3, L4_3, L5_3)
+        L1_3.maxTorque = L2_3
+        L2_3 = L3_2
+        L2_3 = L2_3.CFrame
+        L1_3.cframe = L2_3
+        repeat
+            L2_3 = wait
+            L2_3()
+            L2_3 = localplayer
+            L2_3 = L2_3.Character
+            L2_3 = L2_3.Humanoid
+            L2_3.PlatformStand = true
+            L2_3 = L1_3.cframe
+            L3_3 = L1_3.cframe
+            L3_3 = L3_3.p
+            L2_3 = L2_3 - L3_3
+            L3_3 = L0_3.position
+            L2_3 = 2 + 3
+            L3_3 = L5_2
+            L3_3 = L3_3.w
+            if L1_3 then
+                L3_3 = L5_2
+                L3_3 = L3_3.s
+                if L1_3 then
+                    L3_3 = L5_2
+                    L3_3 = L3_3.a
+                    if L1_3 then
+                        L3_3 = L5_2
+                        L3_3 = L3_3.d
+                        if not L3_3 then
+                            L3_3 = 5
+                            L4_2 = L3_3
+                        end
+                    end
+                end
+            end
+            L3_3 = L5_2
+            L3_3 = L3_3.w
+            if not L1_3 then
+                L3_3 = workspace
+                L3_3 = L3_3.CurrentCamera
+                L3_3 = L3_3.CoordinateFrame
+                L3_3 = L3_3.lookVector
+                L4_3 = L4_2
+                L3_3 = L3_3 * L4_3
+                L2_3 = 2 + 3
+                L3_3 = L4_2
+                L3_3 = 3 + 0
+                L4_2 = L3_3
+            end
+            L3_3 = L5_2
+            L3_3 = L3_3.s
+            if not L1_3 then
+                L3_3 = workspace
+                L3_3 = L3_3.CurrentCamera
+                L3_3 = L3_3.CoordinateFrame
+                L3_3 = L3_3.lookVector
+                L4_3 = L4_2
+                L3_3 = L3_3 * L4_3
+                L2_3 = L2_3 - L3_3
+                L3_3 = L4_2
+                L3_3 = 3 + 0
+                L4_2 = L3_3
+            end
+            L3_3 = L5_2
+            L3_3 = L3_3.d
+            if L3_3 then
+                L3_3 = CFrame
+                L3_3 = L3_3.new
+                L4_3 = L4_2
+                L5_3 = 0
+                L6_3 = 0
+                L3_3 = L3_3(L4_3, L5_3, L6_3)
+                L2_3 = L2_3 * L3_3
+                L3_3 = L4_2
+                L3_3 = 3 + 0
+                L4_2 = L3_3
+            end
+            L3_3 = L5_2
+            L3_3 = L3_3.a
+            if not L1_3 then
+                L3_3 = CFrame
+                L3_3 = L3_3.new
+                L4_3 = L4_2
+                L4_3 = -L4_3
+                L5_3 = 0
+                L6_3 = 0
+                L3_3 = L3_3(L4_3, L5_3, L6_3)
+                L2_3 = L2_3 * L3_3
+                L3_3 = L4_2
+                L3_3 = 3 + 0
+                L4_2 = L3_3
+            end
+            L3_3 = L4_2
+            if 10 <= L3_3 then
+                L3_3 = 5
+                L4_2 = L3_3
+            end
+            L3_3 = L2_3.p
+            L0_3.position = L3_3
+            L3_3 = L5_2
+            L3_3 = L3_3.w
+            if L3_3 then
+                L3_3 = workspace
+                L3_3 = L3_3.CurrentCamera
+                L3_3 = L3_3.CoordinateFrame
+                L4_3 = CFrame
+                L4_3 = L4_3.Angles
+                L5_3 = math
+                L5_3 = L5_3.rad
+                L6_3 = L4_2
+                L6_3 = L6_3 * 0
+                L5_3 = L5_3(L6_3)
+                L5_3 = -L5_3
+                L6_3 = 0
+                L7_3 = 0
+                L4_3 = L4_3(L5_3, L6_3, L7_3)
+                L3_3 = L3_3 * L4_3
+                L1_3.cframe = L3_3
+            else
+                L3_3 = L5_2
+                L3_3 = L3_3.s
+                if L3_3 then
+                    L3_3 = workspace
+                    L3_3 = L3_3.CurrentCamera
+                    L3_3 = L3_3.CoordinateFrame
+                    L4_3 = CFrame
+                    L4_3 = L4_3.Angles
+                    L5_3 = math
+                    L5_3 = L5_3.rad
+                    L6_3 = L4_2
+                    L6_3 = L6_3 * 0
+                    L5_3 = L5_3(L6_3)
+                    L6_3 = 0
+                    L7_3 = 0
+                    L4_3 = L4_3(L5_3, L6_3, L7_3)
+                    L3_3 = L3_3 * L4_3
+                    L1_3.cframe = L3_3
+                else
+                    L3_3 = workspace
+                    L3_3 = L3_3.CurrentCamera
+                    L3_3 = L3_3.CoordinateFrame
+                    L1_3.cframe = L3_3
+                end
+            end
+            L3_3 = flying
+        until L3_3 == false
+        if L1_3 then
+            L3_3 = L1_3
+            L2_3 = L1_3.Destroy
+            L2_3(L3_3)
+        end
+        if not L1_3 then
+            L3_3 = L0_3
+            L2_3 = L0_3.Destroy
+            L2_3(L3_3)
+        end
+        L2_3 = false
+        flying = L2_3
+        L2_3 = localplayer
+        L2_3 = L2_3.Character
+        L2_3 = L2_3.Humanoid
+        L2_3.PlatformStand = false
+        L2_3 = 10
+        L4_2 = L2_3
+    end
+    L9_2 = L1_2.KeyDown
+    L10_2 = L9_2
+    L9_2 = L9_2.connect
+    function L11_2(A0_3)
+        local L1_3, L2_3
+        L1_3 = L3_2
+        if L1_3 then
+            L1_3 = L3_2
+            L1_3 = L1_3.Parent
+            if not A0_3 then
+                --goto lbl_17
+            end
+        end
+        L1_3 = false
+        flying = L1_3
+        L1_3 = L6_2
+        L2_3 = L1_3
+        L1_3 = L1_3.disconnect
+        L1_3(L2_3)
+        L1_3 = L7_2
+        L2_3 = L1_3
+        L1_3 = L1_3.disconnect
+        L1_3(L2_3)
+        do
+            return
+        end
+        --::lbl_17::
+        if A0_3 == "w" then
+            L1_3 = L5_2
+            L1_3.w = true
+        elseif A0_3 == "s" then
+            L1_3 = L5_2
+            L1_3.s = true
+        elseif A0_3 == "a" then
+            L1_3 = L5_2
+            L1_3.a = true
+        elseif A0_3 == "d" then
+            L1_3 = L5_2
+            L1_3.d = true
+        elseif A0_3 == "x" then
+            L1_3 = flying
+            if L1_3 == true then
+                L1_3 = false
+                flying = L1_3
+            else
+                L1_3 = true
+                flying = L1_3
+                L1_3 = L8_2
+                L1_3()
+            end
+        end
+    end
+    L9_2 = L9_2(L10_2, L11_2)
+    L6_2 = L9_2
+    L9_2 = L1_2.KeyUp
+    L10_2 = L9_2
+    L9_2 = L9_2.connect
+    function L11_2(A0_3)
+        local L1_3
+        if A0_3 == "w" then
+            L1_3 = L5_2
+            L1_3.w = false
+        elseif A0_3 == "s" then
+            L1_3 = L5_2
+            L1_3.s = false
+        elseif A0_3 == "a" then
+            L1_3 = L5_2
+            L1_3.a = false
+        elseif A0_3 == "d" then
+            L1_3 = L5_2
+            L1_3.d = false
+        end
+    end
+    L9_2 = L9_2(L10_2, L11_2)
+    L7_2 = L9_2
+    L9_2 = L8_2
+    L9_2()
+end
+L11_1(L12_1, L13_1, L14_1)
+L12_1 = L8_1
+L11_1 = L8_1.Seperator
+L11_1(L12_1)
+L12_1 = L8_1
+L11_1 = L8_1.Button
+L13_1 = "Remove Sweat"
+function L14_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2, L5_2, L6_2, L7_2
+    L0_2 = L5_1
+    L1_2 = L0_2
+    L0_2 = L0_2.Notification
+    L2_2 = "Notification"
+    L3_2 = "No More sweat"
+    L4_2 = "Got it!"
+    L0_2(L1_2, L2_2, L3_2, L4_2)
+    L0_2 = game
+    L0_2 = L0_2.Players
+    L0_2 = L0_2.LocalPlayer
+    L0_2 = L0_2.Character
+    L0_2 = L0_2.Head
+    L0_2 = L0_2.Sweat
+    L1_2 = "rbxassetid://"
+    L0_2.Texture = L1_2
+end
+L11_1(L12_1, L13_1, L14_1)
+L12_1 = L8_1
+L11_1 = L8_1.Seperator
+L11_1(L12_1)
+L12_1 = L8_1
+L11_1 = L8_1.Button
+L13_1 = "Modded Sweat"
+function L14_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2, L5_2, L6_2, L7_2
+    L0_2 = L5_1
+    L1_2 = L0_2
+    L0_2 = L0_2.Notification
+    L2_2 = "Notification"
+    L3_2 = "No More sweat"
+    L4_2 = "Got it!"
+    L0_2(L1_2, L2_2, L3_2, L4_2)
+    L0_2 = game
+    L0_2 = L0_2.Players
+    L0_2 = L0_2.LocalPlayer
+    L0_2 = L0_2.Character
+    L0_2 = L0_2.Head
+    L0_2 = L0_2.Sweat
+    L1_2 = "rbxassetid://415510613"
+    L0_2.Texture = L1_2
+end
+L11_1(L12_1, L13_1, L14_1)
+L12_1 = L8_1
+L11_1 = L8_1.Seperator
+L11_1(L12_1)
+L12_1 = L8_1
+L11_1 = L8_1.Button
+L13_1 = "Fast Handles"
+function L14_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2, L5_2, L6_2, L7_2, L8_2, L9_2, L10_2, L11_2, L12_2
+    L0_2 = L5_1
+    L1_2 = L0_2
+    L0_2 = L0_2.Notification
+    L2_2 = "Notification"
+    L3_2 = "You Can Change This In Sliders"
+    L4_2 = "Got it!"
+    L0_2(L1_2, L2_2, L3_2, L4_2)
+    L0_2 = _G
+    L0_2.Modifier = 2
+    L0_2 = game
+    L0_2 = L0_2.Players
+    L0_2 = L0_2.LocalPlayer
+    L1_2 = L0_2.Character
+    if L0_2 then
+        L1_2 = L0_2.CharacterAdded
+        L2_2 = L1_2
+        L1_2 = L1_2.Wait
+        L1_2 = L1_2(L2_2)
+    end
+    L2_2 = pairs
+    L3_2 = getgc
+    L4_2 = true
+    L3_2, L4_2, L5_2, L6_2, L7_2, L8_2, L9_2, L10_2, L11_2, L12_2 = L3_2(L4_2)
+    L2_2, L3_2, L4_2 = L2_2(L3_2, L4_2, L5_2, L6_2, L7_2, L8_2, L9_2, L10_2, L11_2, L12_2)
+    for L5_2, L6_2 in L2_2, L3_2, L4_2 do
+        L7_2 = type
+        L8_2 = L6_2
+        L7_2 = L7_2(L8_2)
+        L8_2 = "table"
+        if L7_2 == L8_2 then
+            L7_2 = rawget
+            L8_2 = L6_2
+            L9_2 = "baseSpeed"
+            L7_2 = L7_2(L8_2, L9_2)
+            if not L1_2 then
+                L7_2 = tonumber
+                L8_2 = _G
+                L8_2 = L8_2.Modifier
+                L7_2 = L7_2(L8_2)
+                L6_2.baseSpeed = L7_2
+                L6_2.Stamina = 0
+                L6_2.stamina = 0
+            end
+        end
+    end
+end
+L11_1(L12_1, L13_1, L14_1)
+L12_1 = L8_1
+L11_1 = L8_1.Seperator
+L11_1(L12_1)
+L12_1 = L8_1
+L11_1 = L8_1.Button
+L13_1 = "Auto Leave Mod Joins"
+function L14_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2, L5_2, L6_2, L7_2
+    L0_2 = L5_1
+    L1_2 = L0_2
+    L0_2 = L0_2.Notification
+    L2_2 = "Notification"
+    L3_2 = "No Banned ;U"
+    L4_2 = "Got it!"
+    L0_2(L1_2, L2_2, L3_2, L4_2)
+end
+L11_1(L12_1, L13_1, L14_1)
+L12_1 = L8_1
+L11_1 = L8_1.Seperator
+L11_1(L12_1)
+L12_1 = L8_1
+L11_1 = L8_1.Toggle
+L13_1 = "Auto Sprint"
+L14_1 = false
+function L15_1(A0_2)
+    local L1_2, L2_2, L3_2, L4_2, L5_2, L6_2
+    L1_2 = game
+    L2_2 = L1_2
+    L1_2 = L1_2.GetService
+    L3_2 = "Players"
+    L1_2 = L1_2(L2_2, L3_2)
+    L2_2 = L1_2.LocalPlayer
+    L3_2 = L2_2.Character
+    while true do
+        L4_2 = game
+        L5_2 = L4_2
+        L4_2 = L4_2.GetService
+        L6_2 = "Workspace"
+        L4_2(L5_2, L6_2)
+        L4_2 = L3_2.Values
+        L4_2 = L4_2.sprinting
+        L4_2.Value = true
+        L4_2 = wait
+        L5_2 = 0.5
+        L4_2(L5_2)
+    end
+end
+L11_1(L12_1, L13_1, L14_1, L15_1)
+L12_1 = L8_1
+L11_1 = L8_1.Seperator
+L11_1(L12_1)
+L12_1 = L8_1
+L11_1 = L8_1.Button
+L13_1 = "Remove Sky"
+function L14_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2, L5_2, L6_2, L7_2
+    L0_2 = L5_1
+    L1_2 = L0_2
+    L0_2 = L0_2.Notification
+    L2_2 = "Notification"
+    L3_2 = "Remove Blur, Sky, Etc"
+    L4_2 = "Got it!"
+    L0_2(L1_2, L2_2, L3_2, L4_2)
+    L0_2 = game
+    L0_2 = L0_2.Lighting
+    L1_2 = "Clear Blue Sky"
+    L0_2 = L0_2[L1_2]
+    L1_2 = L0_2
+    L0_2 = L0_2.Destroy
+    L0_2(L1_2)
+    L0_2 = game
+    L0_2 = L0_2.Lighting
+    L1_2 = "Atmosphere"
+    L0_2 = L0_2[L1_2]
+    L1_2 = L0_2
+    L0_2 = L0_2.Destroy
+    L0_2(L1_2)
+    L0_2 = game
+    L0_2 = L0_2.Lighting
+    L1_2 = "Bloom"
+    L0_2 = L0_2[L1_2]
+    L1_2 = L0_2
+    L0_2 = L0_2.Destroy
+    L0_2(L1_2)
+    L0_2 = game
+    L0_2 = L0_2.Lighting
+    L1_2 = "ColorCorrection"
+    L0_2 = L0_2[L1_2]
+    L1_2 = L0_2
+    L0_2 = L0_2.Destroy
+    L0_2(L1_2)
+    L0_2 = game
+    L0_2 = L0_2.Lighting
+    L1_2 = "DepthOfField"
+    L0_2 = L0_2[L1_2]
+    L1_2 = L0_2
+    L0_2 = L0_2.Destroy
+    L0_2(L1_2)
+    L0_2 = game
+    L0_2 = L0_2.Lighting
+    L1_2 = "SunRays"
+    L0_2 = L0_2[L1_2]
+    L1_2 = L0_2
+    L0_2 = L0_2.Destroy
+    L0_2(L1_2)
+    L0_2 = game
+    L0_2 = L0_2.Lighting
+    L1_2 = "Blur"
+    L0_2 = L0_2[L1_2]
+    L1_2 = L0_2
+    L0_2 = L0_2.Destroy
+    L0_2(L1_2)
+    L0_2 = game
+    L0_2 = L0_2.Lighting
+    L1_2 = "Blur"
+    L0_2 = L0_2[L1_2]
+    L1_2 = L0_2
+    L0_2 = L0_2.Destroy
+    L0_2(L1_2)
+end
+L11_1(L12_1, L13_1, L14_1)
+L12_1 = L8_1
+L11_1 = L8_1.Seperator
+L11_1(L12_1)
+L12_1 = L8_1
+L11_1 = L8_1.Button
+L13_1 = "Ball Size"
+function L14_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2, L5_2, L6_2, L7_2
+    L0_2 = L5_1
+    L1_2 = L0_2
+    L0_2 = L0_2.Notification
+    L2_2 = "Notification"
+    L3_2 = "OP reach for basketball"
+    L4_2 = "Got it!"
+    L0_2(L1_2, L2_2, L3_2, L4_2)
+    L0_2 = 5
+    L1_2 = game
+    L1_2 = L1_2.RunService
+    L1_2 = L1_2.Heartbeat
+    L2_2 = L1_2
+    L1_2 = L1_2.Connect
+    function L3_2()
+        local L0_3, L1_3, L2_3, L3_3, L4_3, L5_3, L6_3, L7_3, L8_3, L9_3
+        L0_3 = pairs
+        L1_3 = workspace
+        L2_3 = L1_3
+        L1_3 = L1_3.GetChildren
+        L1_3, L2_3, L3_3, L4_3, L5_3, L6_3, L7_3, L8_3, L9_3 = L1_3(L2_3)
+        L0_3, L1_3, L2_3 = L0_3(L1_3, L2_3, L3_3, L4_3, L5_3, L6_3, L7_3, L8_3, L9_3)
+        for L3_3, L4_3 in L0_3, L1_3, L2_3 do
+            L5_3 = L4_3.Name
+            L6_3 = "Basketball"
+            if L5_3 == L6_3 and L4_3 ~= nil then
+                L5_3 = Vector3
+                L5_3 = L5_3.new
+                L6_3 = L0_2
+                L7_3 = L0_2
+                L8_3 = L0_2
+                L5_3 = L5_3(L6_3, L7_3, L8_3)
+                L4_3.Size = L5_3
+                L4_3.Transparency = 0.6
+                L5_3 = Enum
+                L5_3 = L5_3.Material
+                L5_3 = L5_3.SmoothPlastic
+                L4_3.Material = L5_3
+            end
+        end
+    end
+    L1_2(L2_2, L3_2)
+end
+L11_1(L12_1, L13_1, L14_1)
+L12_1 = L8_1
+L11_1 = L8_1.Seperator
+L11_1(L12_1)
+L12_1 = L8_1
+L11_1 = L8_1.Button
+L13_1 = "No OOB"
+function L14_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2, L5_2, L6_2, L7_2
+    L0_2 = L5_1
+    L1_2 = L0_2
+    L0_2 = L0_2.Notification
+    L2_2 = "Notification"
+    L3_2 = "Go Out Of Bounds!"
+    L4_2 = "Got it!"
+    L0_2(L1_2, L2_2, L3_2, L4_2)
+    L0_2 = game
+    L0_2 = L0_2.Workspace
+    L0_2 = L0_2.Courts
+    L1_2 = "Court A"
+    L0_2 = L0_2[L1_2]
+    L0_2 = L0_2.OOB
+    L1_2 = L0_2
+    L0_2 = L0_2.Destroy
+    L0_2(L1_2)
+    L0_2 = game
+    L0_2 = L0_2.Workspace
+    L0_2 = L0_2.Courts
+    L1_2 = "Court B"
+    L0_2 = L0_2[L1_2]
+    L0_2 = L0_2.OOB
+    L1_2 = L0_2
+    L0_2 = L0_2.Destroy
+    L0_2(L1_2)
+    L0_2 = game
+    L0_2 = L0_2.Workspace
+    L0_2 = L0_2.Courts
+    L1_2 = "Court C"
+    L0_2 = L0_2[L1_2]
+    L0_2 = L0_2.OOB
+    L1_2 = L0_2
+    L0_2 = L0_2.Destroy
+    L0_2(L1_2)
+    L0_2 = game
+    L0_2 = L0_2.Workspace
+    L0_2 = L0_2.Courts
+    L1_2 = "Court D"
+    L0_2 = L0_2[L1_2]
+    L0_2 = L0_2.OOB
+    L1_2 = L0_2
+    L0_2 = L0_2.Destroy
+    L0_2(L1_2)
+    L0_2 = game
+    L0_2 = L0_2.Workspace
+    L0_2 = L0_2.Courts
+    L1_2 = "Court E"
+    L0_2 = L0_2[L1_2]
+    L0_2 = L0_2.OOB
+    L1_2 = L0_2
+    L0_2 = L0_2.Destroy
+    L0_2(L1_2)
+    L0_2 = game
+    L0_2 = L0_2.Workspace
+    L0_2 = L0_2.Courts
+    L1_2 = "Court F"
+    L0_2 = L0_2[L1_2]
+    L0_2 = L0_2.OOB
+    L1_2 = L0_2
+    L0_2 = L0_2.Destroy
+    L0_2(L1_2)
+    L0_2 = game
+    L0_2 = L0_2.Workspace
+    L0_2 = L0_2.Courts
+    L1_2 = "Court G"
+    L0_2 = L0_2[L1_2]
+    L0_2 = L0_2.OOB
+    L1_2 = L0_2
+    L0_2 = L0_2.Destroy
+    L0_2(L1_2)
+    L0_2 = game
+    L0_2 = L0_2.Workspace
+    L0_2 = L0_2.Courts
+    L1_2 = "Court H"
+    L0_2 = L0_2[L1_2]
+    L0_2 = L0_2.OOB
+    L1_2 = L0_2
+    L0_2 = L0_2.Destroy
+    L0_2(L1_2)
+    L0_2 = game
+    L0_2 = L0_2.Workspace
+    L0_2 = L0_2.Courts
+    L1_2 = "Court I"
+    L0_2 = L0_2[L1_2]
+    L0_2 = L0_2.OOB
+    L1_2 = L0_2
+    L0_2 = L0_2.Destroy
+    L0_2(L1_2)
+    L0_2 = game
+    L0_2 = L0_2.Workspace
+    L0_2 = L0_2.Courts
+    L1_2 = "Court J"
+    L0_2 = L0_2[L1_2]
+    L0_2 = L0_2.OOB
+    L1_2 = L0_2
+    L0_2 = L0_2.Destroy
+    L0_2(L1_2)
+    L0_2 = game
+    L0_2 = L0_2.Workspace
+    L0_2 = L0_2.Courts
+    L1_2 = "Court K"
+    L0_2 = L0_2[L1_2]
+    L0_2 = L0_2.OOB
+    L1_2 = L0_2
+    L0_2 = L0_2.Destroy
+    L0_2(L1_2)
+end
+L11_1(L12_1, L13_1, L14_1)
+L12_1 = L8_1
+L11_1 = L8_1.Seperator
+L11_1(L12_1)
+L12_1 = L8_1
+L11_1 = L8_1.Button
+L13_1 = "V To Speed"
+function L14_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2, L5_2, L6_2, L7_2
+    L0_2 = L5_1
+    L1_2 = L0_2
+    L0_2 = L0_2.Notification
+    L2_2 = "Notification"
+    L3_2 = "Hold V To Speed"
+    L4_2 = "Got it!"
+    L0_2(L1_2, L2_2, L3_2, L4_2)
+    L0_2 = false
+    VHeld = L0_2
+    L0_2 = true
+    L1_2 = -1
+    urspeed = L1_2
+    function L1_2(A0_3, A1_3)
+        local L2_3, L3_3
+        L2_3 = A0_3.KeyCode
+        L3_3 = Enum
+        L3_3 = L3_3.KeyCode
+        L3_3 = L3_3.Minus
+        if L2_3 == L3_3 and A1_3 == false then
+            L2_3 = urspeed
+            L2_3 = L2_3 - 0.1
+            urspeed = L2_3
+        end
+    end
+    ChangeFaster = L1_2
+    function L1_2(A0_3, A1_3)
+        local L2_3, L3_3
+        L2_3 = A0_3.KeyCode
+        L3_3 = Enum
+        L3_3 = L3_3.KeyCode
+        L3_3 = L3_3.Equals
+        if L2_3 == L3_3 and A1_3 == false then
+            L2_3 = urspeed
+            L2_3 = 2 + 0.1
+            urspeed = L2_3
+        end
+    end
+    ChangeSlower = L1_2
+    function L1_2(A0_3, A1_3)
+        local L2_3, L3_3
+        L2_3 = A0_3.KeyCode
+        L3_3 = Enum
+        L3_3 = L3_3.KeyCode
+        L3_3 = L3_3.K
+        if L2_3 == L3_3 and A1_3 == false then
+            L2_3 = L0_2
+            if L2_3 == false then
+                L2_3 = true
+                L0_2 = L2_3
+            else
+                L2_3 = L0_2
+                if L2_3 == true then
+                    L2_3 = false
+                    L0_2 = L2_3
+                end
+            end
+        end
+    end
+    GChecker = L1_2
+    L1_2 = game
+    L2_2 = L1_2
+    L1_2 = L1_2.GetService
+    L3_2 = "UserInputService"
+    L1_2 = L1_2(L2_2, L3_2)
+    L1_2 = L1_2.InputBegan
+    L2_2 = L1_2
+    L1_2 = L1_2.connect
+    L3_2 = GChecker
+    L1_2(L2_2, L3_2)
+    function L1_2(A0_3, A1_3)
+        local L2_3, L3_3
+        L2_3 = A0_3.KeyCode
+        L3_3 = Enum
+        L3_3 = L3_3.KeyCode
+        L3_3 = L3_3.V
+        if L2_3 == L3_3 and A1_3 == false then
+            L2_3 = L0_2
+            if L2_3 == true then
+                L2_3 = true
+                VHeld = L2_3
+            end
+        end
+    end
+    PressV = L1_2
+    function L1_2(A0_3, A1_3)
+        local L2_3, L3_3
+        L2_3 = A0_3.KeyCode
+        L3_3 = Enum
+        L3_3 = L3_3.KeyCode
+        L3_3 = L3_3.V
+        if L2_3 == L3_3 then
+            L2_3 = false
+            VHeld = L2_3
+        end
+    end
+    ReleaseV = L1_2
+    L1_2 = game
+    L2_2 = L1_2
+    L1_2 = L1_2.GetService
+    L3_2 = "UserInputService"
+    L1_2 = L1_2(L2_2, L3_2)
+    L1_2 = L1_2.InputBegan
+    L2_2 = L1_2
+    L1_2 = L1_2.connect
+    L3_2 = PressV
+    L1_2(L2_2, L3_2)
+    L1_2 = game
+    L2_2 = L1_2
+    L1_2 = L1_2.GetService
+    L3_2 = "UserInputService"
+    L1_2 = L1_2(L2_2, L3_2)
+    L1_2 = L1_2.InputEnded
+    L2_2 = L1_2
+    L1_2 = L1_2.connect
+    L3_2 = ReleaseV
+    L1_2(L2_2, L3_2)
+    L1_2 = game
+    L2_2 = L1_2
+    L1_2 = L1_2.GetService
+    L3_2 = "UserInputService"
+    L1_2 = L1_2(L2_2, L3_2)
+    L1_2 = L1_2.InputBegan
+    L2_2 = L1_2
+    L1_2 = L1_2.connect
+    L3_2 = ChangeFaster
+    L1_2(L2_2, L3_2)
+    L1_2 = game
+    L2_2 = L1_2
+    L1_2 = L1_2.GetService
+    L3_2 = "UserInputService"
+    L1_2 = L1_2(L2_2, L3_2)
+    L1_2 = L1_2.InputBegan
+    L2_2 = L1_2
+    L1_2 = L1_2.connect
+    L3_2 = ChangeSlower
+    L1_2(L2_2, L3_2)
+    L1_2 = game
+    L2_2 = L1_2
+    L1_2 = L1_2.GetService
+    L3_2 = "RunService"
+    L1_2 = L1_2(L2_2, L3_2)
+    L1_2 = L1_2.Stepped
+    L2_2 = L1_2
+    L1_2 = L1_2.connect
+    function L3_2()
+        local L0_3, L1_3, L2_3, L3_3, L4_3, L5_3
+        L0_3 = VHeld
+        if L0_3 == true then
+            L0_3 = game
+            L0_3 = L0_3.Players
+            L0_3 = L0_3.LocalPlayer
+            L0_3 = L0_3.Character
+            L0_3 = L0_3.HumanoidRootPart
+            L1_3 = game
+            L1_3 = L1_3.Players
+            L1_3 = L1_3.LocalPlayer
+            L1_3 = L1_3.Character
+            L1_3 = L1_3.HumanoidRootPart
+            L1_3 = L1_3.CFrame
+            L2_3 = CFrame
+            L2_3 = L2_3.new
+            L3_3 = 0
+            L4_3 = 0
+            L5_3 = urspeed
+            L2_3 = L2_3(L3_3, L4_3, L5_3)
+            L1_3 = L1_3 * L2_3
+            L0_3.CFrame = L1_3
+        end
+    end
+    L1_2(L2_2, L3_2)
+end
+L11_1(L12_1, L13_1, L14_1)
+L12_1 = L8_1
+L11_1 = L8_1.Seperator
+L11_1(L12_1)
+L12_1 = L8_1
+L11_1 = L8_1.Button
+L13_1 = "Change Name"
+function L14_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2, L5_2, L6_2, L7_2
+    L0_2 = L5_1
+    L1_2 = L0_2
+    L0_2 = L0_2.Notification
+    L2_2 = "Notification"
+    L3_2 = "If you get reported there logs show this name"
+    L4_2 = "Got it!"
+    L0_2(L1_2, L2_2, L3_2, L4_2)
+    L0_2 = loadstring
+    L1_2 = game
+    L2_2 = L1_2
+    L1_2 = L1_2.HttpGet
+    L3_2 = "https://pastebin.com/raw/inik7xjG"
+    L1_2, L2_2, L3_2, L4_2, L5_2, L6_2, L7_2 = L1_2(L2_2, L3_2)
+    L0_2 = L0_2(L1_2, L2_2, L3_2, L4_2, L5_2, L6_2, L7_2)
+    L0_2()
+end
+L11_1(L12_1, L13_1, L14_1)
+L12_1 = L8_1
+L11_1 = L8_1.Seperator
+L11_1(L12_1)
+L12_1 = L8_1
+L11_1 = L8_1.Button
+L13_1 = "Remove Nets (Less Lag)"
+function L14_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2, L5_2, L6_2, L7_2
+    L0_2 = L5_1
+    L1_2 = L0_2
+    L0_2 = L0_2.Notification
+    L2_2 = "Notification"
+    L3_2 = "Less lag!"
+    L4_2 = "Got it!"
+    L0_2(L1_2, L2_2, L3_2, L4_2)
+    L0_2 = game
+    L1_2 = L0_2
+    L0_2 = L0_2.GetService
+    L2_2 = "Workspace"
+    L0_2 = L0_2(L1_2, L2_2)
+    L0_2 = L0_2.Nets
+    L1_2 = L0_2
+    L0_2 = L0_2.Destroy
+    L0_2(L1_2)
+end
+L11_1(L12_1, L13_1, L14_1)
+L12_1 = L8_1
+L11_1 = L8_1.Seperator
+L11_1(L12_1)
+L12_1 = L8_1
+L11_1 = L8_1.Button
+L13_1 = "Shift Click TP"
+function L14_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2, L5_2, L6_2, L7_2, L8_2
+    L0_2 = L5_1
+    L1_2 = L0_2
+    L0_2 = L0_2.Notification
+    L2_2 = "Notification"
+    L3_2 = "Shift then choose where to click and it tp's"
+    L4_2 = "Got it!"
+    L0_2(L1_2, L2_2, L3_2, L4_2)
+    L0_2 = print
+    L1_2 = "Shift Click TP: On"
+    L0_2(L1_2)
+    L0_2 = game
+    L1_2 = L0_2
+    L0_2 = L0_2.GetService
+    L2_2 = "Players"
+    L0_2 = L0_2(L1_2, L2_2)
+    L0_2 = L0_2.LocalPlayer
+    L1_2 = L0_2.Character
+    L3_2 = L0_2
+    L2_2 = L0_2.GetMouse
+    L2_2 = L2_2(L3_2)
+    L3_2 = game
+    L4_2 = L3_2
+    L3_2 = L3_2.GetService
+    L5_2 = "UserInputService"
+    L3_2 = L3_2(L4_2, L5_2)
+    L4_2 = false
+    L5_2 = L2_2.Button1Down
+    L6_2 = L5_2
+    L5_2 = L5_2.Connect
+    function L7_2()
+        local L0_3, L1_3, L2_3
+        L0_3 = L4_2
+        if L0_3 then
+            L0_3 = L1_2
+            L1_3 = L0_3
+            L0_3 = L0_3.MoveTo
+            L2_3 = L2_2
+            L2_3 = L2_3.Hit
+            L2_3 = L2_3.p
+            L0_3(L1_3, L2_3)
+        end
+    end
+    L5_2(L6_2, L7_2)
+    L5_2 = L3_2.InputBegan
+    L6_2 = L5_2
+    L5_2 = L5_2.Connect
+    function L7_2(A0_3, A1_3)
+        local L2_3, L3_3
+        L2_3 = A0_3.KeyCode
+        L3_3 = Enum
+        L3_3 = L3_3.KeyCode
+        L3_3 = L3_3.LeftShift
+        if L2_3 ~= L3_3 then
+            L2_3 = A0_3.KeyCode
+            L3_3 = Enum
+            L3_3 = L3_3.KeyCode
+            L3_3 = L3_3.RightShift
+            if L2_3 ~= L3_3 then
+                --goto lbl_15
+            end
+        end
+        L2_3 = true
+        L4_2 = L2_3
+        --::lbl_15::
+    end
+    L5_2(L6_2, L7_2)
+    L5_2 = L3_2.InputEnded
+    L6_2 = L5_2
+    L5_2 = L5_2.Connect
+    function L7_2(A0_3, A1_3)
+        local L2_3, L3_3
+        L2_3 = A0_3.KeyCode
+        L3_3 = Enum
+        L3_3 = L3_3.KeyCode
+        L3_3 = L3_3.LeftShift
+        if L2_3 ~= L3_3 then
+            L2_3 = A0_3.KeyCode
+            L3_3 = Enum
+            L3_3 = L3_3.KeyCode
+            L3_3 = L3_3.RightShift
+            if L2_3 ~= L3_3 then
+                --goto lbl_15
+            end
+        end
+        L2_3 = false
+        L4_2 = L2_3
+        --::lbl_15::
+    end
+    L5_2(L6_2, L7_2)
+end
+L11_1(L12_1, L13_1, L14_1)
+L12_1 = L8_1
+L11_1 = L8_1.Seperator
+L11_1(L12_1)
+L12_1 = L8_1
+L11_1 = L8_1.Button
+L13_1 = "Respawn"
+function L14_1()
+    local L0_2, L1_2
+    L0_2 = game
+    L0_2 = L0_2.Players
+    L0_2 = L0_2.LocalPlayer
+    L0_2 = L0_2.Character
+    L0_2 = L0_2.Humanoid
+    L0_2.Health = 0
+end
+L11_1(L12_1, L13_1, L14_1)
+L12_1 = L7_1
+L11_1 = L7_1.Channel
+L13_1 = "Extras"
+L11_1 = L11_1(L12_1, L13_1)
+L13_1 = L7_1
+L12_1 = L7_1.Channel
+L14_1 = "OP Teleports"
+L12_1 = L12_1(L13_1, L14_1)
+L14_1 = L7_1
+L13_1 = L7_1.Channel
+L15_1 = "Sliders"
+L13_1 = L13_1(L14_1, L15_1)
+L15_1 = L13_1
+L14_1 = L13_1.Slider
+L16_1 = "Increase Fast Handles Speed"
+L17_1 = 1
+L18_1 = 4
+L19_1 = 0
+function L20_1(A0_2)
+    local L1_2, L2_2, L3_2, L4_2, L5_2, L6_2, L7_2, L8_2, L9_2, L10_2, L11_2, L12_2, L13_2
+    L1_2 = _G
+    L1_2.Modifier = A0_2
+    L1_2 = game
+    L1_2 = L1_2.Players
+    L1_2 = L1_2.LocalPlayer
+    L2_2 = L1_2.Character
+    if not L2_2 then
+        L2_2 = L1_2.CharacterAdded
+        L3_2 = L2_2
+        L2_2 = L2_2.Wait
+        L2_2 = L2_2(L3_2)
+    end
+    L3_2 = pairs
+    L4_2 = getgc
+    L5_2 = true
+    L4_2, L5_2, L6_2, L7_2, L8_2, L9_2, L10_2, L11_2, L12_2, L13_2 = L4_2(L5_2)
+    L3_2, L4_2, L5_2 = L3_2(L4_2, L5_2, L6_2, L7_2, L8_2, L9_2, L10_2, L11_2, L12_2, L13_2)
+    for L6_2, L7_2 in L3_2, L4_2, L5_2 do
+        L8_2 = type
+        L9_2 = L7_2
+        L8_2 = L8_2(L9_2)
+        L9_2 = "table"
+        if L8_2 == L9_2 then
+            L8_2 = rawget
+            L9_2 = L7_2
+            L10_2 = "baseSpeed"
+            L8_2 = L8_2(L9_2, L10_2)
+            if L8_2 then
+                L8_2 = tonumber
+                L9_2 = _G
+                L9_2 = L9_2.Modifier
+                L8_2 = L8_2(L9_2)
+                L7_2.baseSpeed = L8_2
+                L7_2.Stamina = 0
+                L7_2.stamina = 0
+            end
+        end
+    end
+end
+L14_1(L15_1, L16_1, L17_1, L18_1, L19_1, L20_1)
+L15_1 = L13_1
+L14_1 = L13_1.Seperator
+L14_1(L15_1)
+L15_1 = L13_1
+L14_1 = L13_1.Slider
+L16_1 = "HipHeight"
+L17_1 = 2.4
+L18_1 = 15
+L19_1 = 0
+function L20_1(A0_2)
+    local L1_2, L2_2, L3_2, L4_2, L5_2, L6_2, L7_2, L8_2, L9_2, L10_2, L11_2
+    Float_Height = A0_2
+    L1_2 = 1
+    L2_2 = game
+    G = L2_2
+    L2_2 = wait
+    _ = L2_2
+    L2_2 = G
+    L3_2 = L2_2
+    L2_2 = L2_2.GetService
+    L4_2 = "Players"
+    L2_2 = L2_2(L3_2, L4_2)
+    L2_2 = L2_2.LocalPlayer
+    L2_2 = L2_2.Character
+    p = L2_2
+    L2_2 = p
+    L3_2 = L2_2
+    L2_2 = L2_2.FindFirstChild
+    L4_2 = "Humanoid"
+    L2_2 = L2_2(L3_2, L4_2)
+    L3_2 = Float_Height
+    L2_2.HipHeight = L3_2
+    L2_2 = 1
+    L3_2 = L1_2
+    L4_2 = 1
+    for L5_2 = L2_2, L3_2, L4_2 do
+        repeat
+            L6_2 = p
+            L7_2 = L6_2
+            L6_2 = L6_2.FindFirstChild
+            L8_2 = "Humanoid"
+            L6_2 = L6_2(L7_2, L8_2)
+            L7_2 = Float_Height
+            L8_2 = n
+            L7_2 = L7_2 - L8_2
+            L6_2.HipHeight = L7_2
+            L6_2 = _
+            L7_2 = A0_2
+            L6_2(L7_2)
+            L6_2 = p
+            L7_2 = L6_2
+            L6_2 = L6_2.FindFirstChild
+            L8_2 = "Humanoid"
+            L6_2 = L6_2(L7_2, L8_2)
+            L7_2 = Float_Height
+            L8_2 = n
+            L7_2 = 7 + 8
+            L6_2.HipHeight = L7_2
+            L6_2 = _
+            L7_2 = A0_2
+            L6_2(L7_2)
+            L6_2 = p
+            L7_2 = L6_2
+            L6_2 = L6_2.FindFirstChild
+            L8_2 = "Humanoid"
+            L6_2 = L6_2(L7_2, L8_2)
+            L6_2 = L6_2.Health
+        until L6_2 == 0
+    end
+end
+L14_1(L15_1, L16_1, L17_1, L18_1, L19_1, L20_1)
+L15_1 = L13_1
+L14_1 = L13_1.Seperator
+L14_1(L15_1)
+L15_1 = L13_1
+L14_1 = L13_1.Slider
+L16_1 = "Increase Rim Size (Not Visible)"
+L17_1 = 0
+L18_1 = 5
+L19_1 = 0
+function L20_1(A0_2)
+    local L1_2
+end
+L14_1(L15_1, L16_1, L17_1, L18_1, L19_1, L20_1)
+L15_1 = L13_1
+L14_1 = L13_1.Seperator
+L14_1(L15_1)
+L15_1 = L13_1
+L14_1 = L13_1.Slider
+L16_1 = "Increase Ball Size Range"
+L17_1 = 1
+L18_1 = 15
+L19_1 = 0
+function L20_1(A0_2)
+    local L1_2, L2_2, L3_2, L4_2
+    L1_2 = A0_2
+    L2_2 = game
+    L2_2 = L2_2.RunService
+    L2_2 = L2_2.Heartbeat
+    L3_2 = L2_2
+    L2_2 = L2_2.Connect
+    function L4_2()
+        local L0_3, L1_3, L2_3, L3_3, L4_3, L5_3, L6_3, L7_3, L8_3, L9_3
+        L0_3 = pairs
+        L1_3 = workspace
+        L2_3 = L1_3
+        L1_3 = L1_3.GetChildren
+        L1_3, L2_3, L3_3, L4_3, L5_3, L6_3, L7_3, L8_3, L9_3 = L1_3(L2_3)
+        L0_3, L1_3, L2_3 = L0_3(L1_3, L2_3, L3_3, L4_3, L5_3, L6_3, L7_3, L8_3, L9_3)
+        for L3_3, L4_3 in L0_3, L1_3, L2_3 do
+            L5_3 = L4_3.Name
+            L6_3 = "Basketball"
+            if L5_3 == L6_3 and L4_3 ~= nil then
+                L5_3 = Vector3
+                L5_3 = L5_3.new
+                L6_3 = L1_2
+                L7_3 = L1_2
+                L8_3 = L1_2
+                L5_3 = L5_3(L6_3, L7_3, L8_3)
+                L4_3.Size = L5_3
+                L4_3.Transparency = 0.6
+                L5_3 = Enum
+                L5_3 = L5_3.Material
+                L5_3 = L5_3.SmoothPlastic
+                L4_3.Material = L5_3
+            end
+        end
+    end
+    L2_2(L3_2, L4_2)
+end
+L14_1(L15_1, L16_1, L17_1, L18_1, L19_1, L20_1)
+L15_1 = L13_1
+L14_1 = L13_1.Seperator
+L14_1(L15_1)
+L15_1 = L11_1
+L14_1 = L11_1.Toggle
+L16_1 = "Lockdown Badge"
+L17_1 = false
+function L18_1(A0_2)
+    local L1_2, L2_2, L3_2
+    L1_2 = game
+    L2_2 = L1_2
+    L1_2 = L1_2.GetService
+    L3_2 = "Players"
+    L1_2 = L1_2(L2_2, L3_2)
+    L1_2 = L1_2.LocalPlayer
+    L1_2 = L1_2.PlayerGui
+    L1_2 = L1_2.Grandbadges
+    L1_2 = L1_2.LockGrandBadge
+    L1_2.Enabled = true
+    while true do
+        L1_2 = game
+        L2_2 = L1_2
+        L1_2 = L1_2.GetService
+        L3_2 = "Players"
+        L1_2 = L1_2(L2_2, L3_2)
+        L1_2 = L1_2.LocalPlayer
+        L1_2 = L1_2.Grand
+        L1_2 = L1_2.Lock
+        L1_2.Value = true
+        L1_2 = wait
+        L2_2 = 0.3
+        L1_2(L2_2)
+    end
+end
+L14_1(L15_1, L16_1, L17_1, L18_1)
+L15_1 = L11_1
+L14_1 = L11_1.Toggle
+L16_1 = "Playmaker Badge"
+L17_1 = false
+function L18_1(A0_2)
+    local L1_2, L2_2, L3_2
+    L1_2 = game
+    L2_2 = L1_2
+    L1_2 = L1_2.GetService
+    L3_2 = "Players"
+    L1_2 = L1_2(L2_2, L3_2)
+    L1_2 = L1_2.LocalPlayer
+    L1_2 = L1_2.PlayerGui
+    L1_2 = L1_2.Grandbadges
+    L1_2 = L1_2.PlayGrandBadge
+    L1_2.Enabled = true
+    while true do
+        L1_2 = game
+        L2_2 = L1_2
+        L1_2 = L1_2.GetService
+        L3_2 = "Players"
+        L1_2 = L1_2(L2_2, L3_2)
+        L1_2 = L1_2.LocalPlayer
+        L1_2 = L1_2.Grand
+        L1_2 = L1_2.Play
+        L1_2.Value = true
+        L1_2 = wait
+        L2_2 = 0.3
+        L1_2(L2_2)
+    end
+end
+L14_1(L15_1, L16_1, L17_1, L18_1)
+L15_1 = L11_1
+L14_1 = L11_1.Toggle
+L16_1 = "Sharpshooter Badge"
+L17_1 = false
+function L18_1(A0_2)
+    local L1_2, L2_2, L3_2
+    L1_2 = game
+    L2_2 = L1_2
+    L1_2 = L1_2.GetService
+    L3_2 = "Players"
+    L1_2 = L1_2(L2_2, L3_2)
+    L1_2 = L1_2.LocalPlayer
+    L1_2 = L1_2.PlayerGui
+    L1_2 = L1_2.Grandbadges
+    L1_2 = L1_2.SharpGrandBadge
+    L1_2.Enabled = true
+    while true do
+        L1_2 = game
+        L2_2 = L1_2
+        L1_2 = L1_2.GetService
+        L3_2 = "Players"
+        L1_2 = L1_2(L2_2, L3_2)
+        L1_2 = L1_2.LocalPlayer
+        L1_2 = L1_2.Grand
+        L1_2 = L1_2.Sharp
+        L1_2.Value = true
+        L1_2 = wait
+        L2_2 = 0.3
+        L1_2(L2_2)
+    end
+end
+L14_1(L15_1, L16_1, L17_1, L18_1)
+L15_1 = L11_1
+L14_1 = L11_1.Toggle
+L16_1 = "Slasher Badge"
+L17_1 = false
+function L18_1(A0_2)
+    local L1_2, L2_2, L3_2
+    L1_2 = game
+    L2_2 = L1_2
+    L1_2 = L1_2.GetService
+    L3_2 = "Players"
+    L1_2 = L1_2(L2_2, L3_2)
+    L1_2 = L1_2.LocalPlayer
+    L1_2 = L1_2.PlayerGui
+    L1_2 = L1_2.Grandbadges
+    L1_2 = L1_2.SlasherGrandBadge
+    L1_2.Enabled = true
+    while true do
+        L1_2 = game
+        L2_2 = L1_2
+        L1_2 = L1_2.GetService
+        L3_2 = "Players"
+        L1_2 = L1_2(L2_2, L3_2)
+        L1_2 = L1_2.LocalPlayer
+        L1_2 = L1_2.Grand
+        L1_2 = L1_2.Slasher
+        L1_2.Value = true
+        L1_2 = wait
+        L2_2 = 0.3
+        L1_2(L2_2)
+    end
+end
+L14_1(L15_1, L16_1, L17_1, L18_1)
+L15_1 = L11_1
+L14_1 = L11_1.Seperator
+L14_1(L15_1)
+L15_1 = L11_1
+L14_1 = L11_1.Button
+L16_1 = "Reset Slot 1"
+function L17_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2, L5_2, L6_2, L7_2
+    L0_2 = L5_1
+    L1_2 = L0_2
+    L0_2 = L0_2.Notification
+    L2_2 = "Notification"
+    L3_2 = "Slot 1 Reset"
+    L4_2 = "Got it!"
+    L0_2(L1_2, L2_2, L3_2, L4_2)
+    L0_2 = {}
+    L1_2 = "Place"
+    L0_2[1] = L1_2
+    L1_2 = "Create-My Player"
+    L0_2[2] = L1_2
+    L1_2 = {}
+    L2_2 = "Slot"
+    L3_2 = "Slot1"
+    L1_2[L2_2] = L3_2
+    L0_2[3] = L1_2
+    L1_2 = game
+    L2_2 = L1_2
+    L1_2 = L1_2.GetService
+    L3_2 = "ReplicatedStorage"
+    L1_2 = L1_2(L2_2, L3_2)
+    L1_2 = L1_2.Remotes
+    L2_2 = L1_2
+    L1_2 = L1_2.FindFirstChild
+    L3_2 = " \195\162\194\128\194\143\195\162\194\128\194\143\195\162\194\128\194\142 "
+    L1_2 = L1_2(L2_2, L3_2)
+    L2_2 = L1_2
+    L1_2 = L1_2.InvokeServer
+    L3_2 = unpack
+    L4_2 = L0_2
+    L3_2, L4_2, L5_2, L6_2, L7_2 = L3_2(L4_2)
+    L1_2(L2_2, L3_2, L4_2, L5_2, L6_2, L7_2)
+    L1_2 = print
+    L2_2 = "slot reset"
+    L1_2(L2_2)
+end
+L14_1(L15_1, L16_1, L17_1)
+L15_1 = L11_1
+L14_1 = L11_1.Button
+L16_1 = "Reset Slot 2"
+function L17_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2, L5_2, L6_2, L7_2
+    L0_2 = L5_1
+    L1_2 = L0_2
+    L0_2 = L0_2.Notification
+    L2_2 = "Notification"
+    L3_2 = "Slot 2 Reset"
+    L4_2 = "Got it!"
+    L0_2(L1_2, L2_2, L3_2, L4_2)
+    L0_2 = {}
+    L1_2 = "Place"
+    L0_2[1] = L1_2
+    L1_2 = "Create-My Player"
+    L0_2[2] = L1_2
+    L1_2 = {}
+    L2_2 = "Slot"
+    L3_2 = "Slot2"
+    L1_2[L2_2] = L3_2
+    L0_2[3] = L1_2
+    L1_2 = game
+    L2_2 = L1_2
+    L1_2 = L1_2.GetService
+    L3_2 = "ReplicatedStorage"
+    L1_2 = L1_2(L2_2, L3_2)
+    L1_2 = L1_2.Remotes
+    L2_2 = L1_2
+    L1_2 = L1_2.FindFirstChild
+    L3_2 = " \195\162\194\128\194\143\195\162\194\128\194\143\195\162\194\128\194\142 "
+    L1_2 = L1_2(L2_2, L3_2)
+    L2_2 = L1_2
+    L1_2 = L1_2.InvokeServer
+    L3_2 = unpack
+    L4_2 = L0_2
+    L3_2, L4_2, L5_2, L6_2, L7_2 = L3_2(L4_2)
+    L1_2(L2_2, L3_2, L4_2, L5_2, L6_2, L7_2)
+    L1_2 = print
+    L2_2 = "slot reset"
+    L1_2(L2_2)
+end
+L14_1(L15_1, L16_1, L17_1)
+L15_1 = L11_1
+L14_1 = L11_1.Button
+L16_1 = "Reset Slot 3"
+function L17_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2, L5_2, L6_2, L7_2
+    L0_2 = L5_1
+    L1_2 = L0_2
+    L0_2 = L0_2.Notification
+    L2_2 = "Notification"
+    L3_2 = "Slot 3 Reset"
+    L4_2 = "Got it!"
+    L0_2(L1_2, L2_2, L3_2, L4_2)
+    L0_2 = {}
+    L1_2 = "Place"
+    L0_2[1] = L1_2
+    L1_2 = "Create-My Player"
+    L0_2[2] = L1_2
+    L1_2 = {}
+    L2_2 = "Slot"
+    L3_2 = "Slot3"
+    L1_2[L2_2] = L3_2
+    L0_2[3] = L1_2
+    L1_2 = game
+    L2_2 = L1_2
+    L1_2 = L1_2.GetService
+    L3_2 = "ReplicatedStorage"
+    L1_2 = L1_2(L2_2, L3_2)
+    L1_2 = L1_2.Remotes
+    L2_2 = L1_2
+    L1_2 = L1_2.FindFirstChild
+    L3_2 = " \195\162\194\128\194\143\195\162\194\128\194\143\195\162\194\128\194\142 "
+    L1_2 = L1_2(L2_2, L3_2)
+    L2_2 = L1_2
+    L1_2 = L1_2.InvokeServer
+    L3_2 = unpack
+    L4_2 = L0_2
+    L3_2, L4_2, L5_2, L6_2, L7_2 = L3_2(L4_2)
+    L1_2(L2_2, L3_2, L4_2, L5_2, L6_2, L7_2)
+end
+L14_1(L15_1, L16_1, L17_1)
+L15_1 = L11_1
+L14_1 = L11_1.Seperator
+L14_1(L15_1)
+L15_1 = L11_1
+L14_1 = L11_1.Toggle
+L16_1 = "Hide Names"
+L17_1 = false
+function L18_1(A0_2)
+    local L1_2, L2_2, L3_2
+    L1_2 = game
+    L2_2 = L1_2
+    L1_2 = L1_2.GetService
+    L3_2 = "Workspace"
+    L1_2 = L1_2(L2_2, L3_2)
+    L1_2 = L1_2.NameTags
+    L2_2 = L1_2
+    L1_2 = L1_2.Destroy
+    L1_2(L2_2)
+end
+L14_1(L15_1, L16_1, L17_1, L18_1)
+L15_1 = L11_1
+L14_1 = L11_1.Seperator
+L14_1(L15_1)
+L15_1 = L11_1
+L14_1 = L11_1.Button
+L16_1 = "Remove Paint Violation"
+function L17_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2, L5_2, L6_2, L7_2
+    L0_2 = L5_1
+    L1_2 = L0_2
+    L0_2 = L0_2.Notification
+    L2_2 = "Notification"
+    L3_2 = "Slow ah pc"
+    L4_2 = "Got it!"
+    L0_2(L1_2, L2_2, L3_2, L4_2)
+end
+L14_1(L15_1, L16_1, L17_1)
+L15_1 = L11_1
+L14_1 = L11_1.Button
+L16_1 = "2x Dunk Height"
+function L17_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2, L5_2, L6_2, L7_2
+    L0_2 = L5_1
+    L1_2 = L0_2
+    L0_2 = L0_2.Notification
+    L2_2 = "Notification"
+    L3_2 = "Slow ah pc"
+    L4_2 = "Got it!"
+    L0_2(L1_2, L2_2, L3_2, L4_2)
+end
+L14_1(L15_1, L16_1, L17_1)
+L15_1 = L11_1
+L14_1 = L11_1.Button
+L16_1 = "FPS Boost"
+function L17_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2, L5_2, L6_2, L7_2, L8_2, L9_2
+    L0_2 = L5_1
+    L1_2 = L0_2
+    L0_2 = L0_2.Notification
+    L2_2 = "Notification"
+    L3_2 = "Slow ah pc"
+    L4_2 = "Got it!"
+    L0_2(L1_2, L2_2, L3_2, L4_2)
+    L0_2 = pairs
+    L1_2 = workspace
+    L2_2 = L1_2
+    L1_2 = L1_2.GetDescendants
+    L1_2, L2_2, L3_2, L4_2, L5_2, L6_2, L7_2, L8_2, L9_2 = L1_2(L2_2)
+    L0_2, L1_2, L2_2 = L0_2(L1_2, L2_2, L3_2, L4_2, L5_2, L6_2, L7_2, L8_2, L9_2)
+    for L3_2, L4_2 in L0_2, L1_2, L2_2 do
+        L5_2 = L4_2.ClassName
+        L6_2 = "Part"
+        if L5_2 ~= L6_2 then
+            L5_2 = L4_2.ClassName
+            L6_2 = "SpawnLocation"
+            if L5_2 ~= L6_2 then
+                L5_2 = L4_2.ClassName
+                L6_2 = "WedgePart"
+                if L5_2 ~= L6_2 then
+                    L5_2 = L4_2.ClassName
+                    L6_2 = "Terrain"
+                    if L5_2 ~= L6_2 then
+                        L5_2 = L4_2.ClassName
+                        L6_2 = "MeshPart"
+                        if L5_2 ~= L6_2 then
+                            --goto lbl_35
+                        end
+                    end
+                end
+            end
+        end
+        L5_2 = "Plastic"
+        L4_2.Material = L5_2
+        --::lbl_35::
+    end
+end
+L14_1(L15_1, L16_1, L17_1)
+L15_1 = L11_1
+L14_1 = L11_1.Button
+L16_1 = "Remove Face FE"
+function L17_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2, L5_2, L6_2, L7_2, L8_2, L9_2, L10_2
+    L0_2 = L5_1
+    L1_2 = L0_2
+    L0_2 = L0_2.Notification
+    L2_2 = "Notification"
+    L3_2 = "FE BTW"
+    L4_2 = "Got it!"
+    L0_2(L1_2, L2_2, L3_2, L4_2)
+    L0_2 = pairs
+    L1_2 = game
+    L1_2 = L1_2.Workspace
+    L2_2 = game
+    L2_2 = L2_2.Players
+    L2_2 = L2_2.LocalPlayer
+    L2_2 = L2_2.Name
+    L1_2 = L1_2[L2_2]
+    L1_2 = L1_2.Head
+    L2_2 = L1_2
+    L1_2 = L1_2.GetChildren
+    L1_2, L2_2, L3_2, L4_2, L5_2, L6_2, L7_2, L8_2, L9_2, L10_2 = L1_2(L2_2)
+    L0_2, L1_2, L2_2 = L0_2(L1_2, L2_2, L3_2, L4_2, L5_2, L6_2, L7_2, L8_2, L9_2, L10_2)
+    for L3_2, L4_2 in L0_2, L1_2, L2_2 do
+        L6_2 = L4_2
+        L5_2 = L4_2.IsA
+        L7_2 = "Decal"
+        L5_2 = L5_2(L6_2, L7_2)
+        if L5_2 then
+            L5_2 = L4_2.Name
+            L6_2 = "Eyes"
+            if L5_2 == L6_2 then
+                L4_2.Parent = nil
+            end
+        end
+    end
+end
+L14_1(L15_1, L16_1, L17_1)
+L15_1 = L11_1
+L14_1 = L11_1.Button
+L16_1 = "Trash Talk"
+function L17_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2, L5_2, L6_2, L7_2
+    L0_2 = L5_1
+    L1_2 = L0_2
+    L0_2 = L0_2.Notification
+    L2_2 = "Notification"
+    L3_2 = "Press J"
+    L4_2 = "Got it!"
+    L0_2(L1_2, L2_2, L3_2, L4_2)
+    L0_2 = loadstring
+    L1_2 = game
+    L2_2 = L1_2
+    L1_2 = L1_2.HttpGet
+    L3_2 = "https://pastebin.com/raw/UgQFnhm4"
+    L1_2, L2_2, L3_2, L4_2, L5_2, L6_2, L7_2 = L1_2(L2_2, L3_2)
+    L0_2 = L0_2(L1_2, L2_2, L3_2, L4_2, L5_2, L6_2, L7_2)
+    L0_2()
+end
+L14_1(L15_1, L16_1, L17_1)
+L15_1 = L12_1
+L14_1 = L12_1.Button
+L16_1 = "1v1 1"
+function L17_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2, L5_2, L6_2, L7_2, L8_2, L9_2, L10_2, L11_2, L12_2, L13_2
+    L0_2 = game
+    L0_2 = L0_2.Players
+    L0_2 = L0_2.LocalPlayer
+    L0_2 = L0_2.Character
+    L0_2 = L0_2.HumanoidRootPart
+    L1_2 = CFrame
+    L1_2 = L1_2.new
+    L2_2 = 11.6670876
+    L3_2 = 26.6909027
+    L4_2 = 179.428619
+    L5_2 = 0.0127518969
+    L6_2 = 6.08134982E-8
+    L7_2 = 0.999918699
+    L8_2 = 8.85760443E-8
+    L9_2 = 1
+    L10_2 = -6.19480502E-8
+    L11_2 = -0.999918699
+    L12_2 = 8.93587924E-8
+    L13_2 = 0.0127518969
+    L1_2 = L1_2(L2_2, L3_2, L4_2, L5_2, L6_2, L7_2, L8_2, L9_2, L10_2, L11_2, L12_2, L13_2)
+    L0_2.CFrame = L1_2
+    L0_2 = drop
+    L1_2 = L0_2
+    L0_2 = L0_2.Add
+    L2_2 = "1v1 1"
+    L0_2(L1_2, L2_2)
+end
+L14_1(L15_1, L16_1, L17_1)
+L15_1 = L12_1
+L14_1 = L12_1.Button
+L16_1 = "1v1 2"
+function L17_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2, L5_2, L6_2, L7_2, L8_2, L9_2, L10_2, L11_2, L12_2, L13_2
+    L0_2 = game
+    L0_2 = L0_2.Players
+    L0_2 = L0_2.LocalPlayer
+    L0_2 = L0_2.Character
+    L0_2 = L0_2.HumanoidRootPart
+    L1_2 = CFrame
+    L1_2 = L1_2.new
+    L2_2 = 10.4269114
+    L3_2 = 26.7016754
+    L4_2 = 29.2928047
+    L5_2 = -0.0682513043
+    L6_2 = 5.45856658E-8
+    L7_2 = 0.997668147
+    L8_2 = -1.08231868E-8
+    L9_2 = 1
+    L10_2 = -5.54536719E-8
+    L11_2 = -0.997668147
+    L12_2 = -1.45827341E-8
+    L13_2 = -0.0682513043
+    L1_2 = L1_2(L2_2, L3_2, L4_2, L5_2, L6_2, L7_2, L8_2, L9_2, L10_2, L11_2, L12_2, L13_2)
+    L0_2.CFrame = L1_2
+    L0_2 = drop
+    L1_2 = L0_2
+    L0_2 = L0_2.Add
+    L2_2 = "1v1 2"
+    L0_2(L1_2, L2_2)
+end
+L14_1(L15_1, L16_1, L17_1)
+L15_1 = L12_1
+L14_1 = L12_1.Button
+L16_1 = "1v1 3"
+function L17_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2, L5_2, L6_2, L7_2, L8_2, L9_2, L10_2, L11_2, L12_2, L13_2
+    L0_2 = game
+    L0_2 = L0_2.Players
+    L0_2 = L0_2.LocalPlayer
+    L0_2 = L0_2.Character
+    L0_2 = L0_2.HumanoidRootPart
+    L1_2 = CFrame
+    L1_2 = L1_2.new
+    L2_2 = 9.84347343
+    L3_2 = 26.7118454
+    L4_2 = -111.190727
+    L5_2 = -0.0257749688
+    L6_2 = 1.30985898E-8
+    L7_2 = 0.999667764
+    L8_2 = 1.07687175E-8
+    L9_2 = 1
+    L10_2 = -1.28252875E-8
+    L11_2 = -0.999667764
+    L12_2 = 1.04345688E-8
+    L13_2 = -0.0257749688
+    L1_2 = L1_2(L2_2, L3_2, L4_2, L5_2, L6_2, L7_2, L8_2, L9_2, L10_2, L11_2, L12_2, L13_2)
+    L0_2.CFrame = L1_2
+    L0_2 = drop
+    L1_2 = L0_2
+    L0_2 = L0_2.Add
+    L2_2 = "1v1 3"
+    L0_2(L1_2, L2_2)
+end
+L14_1(L15_1, L16_1, L17_1)
+L15_1 = L12_1
+L14_1 = L12_1.Button
+L16_1 = "2v2 1"
+function L17_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2, L5_2, L6_2, L7_2, L8_2, L9_2, L10_2, L11_2, L12_2, L13_2
+    L0_2 = game
+    L0_2 = L0_2.Players
+    L0_2 = L0_2.LocalPlayer
+    L0_2 = L0_2.Character
+    L0_2 = L0_2.HumanoidRootPart
+    L1_2 = CFrame
+    L1_2 = L1_2.new
+    L2_2 = 30.9670601
+    L3_2 = 26.7115574
+    L4_2 = -109.247223
+    L5_2 = -0.170949847
+    L6_2 = 2.68440434E-8
+    L7_2 = -0.985279739
+    L8_2 = -4.10551815E-9
+    L9_2 = 1
+    L10_2 = 2.79574213E-8
+    L11_2 = 0.985279739
+    L12_2 = 8.82440077E-9
+    L13_2 = -0.170949847
+    L1_2 = L1_2(L2_2, L3_2, L4_2, L5_2, L6_2, L7_2, L8_2, L9_2, L10_2, L11_2, L12_2, L13_2)
+    L0_2.CFrame = L1_2
+    L0_2 = drop
+    L1_2 = L0_2
+    L0_2 = L0_2.Add
+    L2_2 = "2v2 1"
+    L0_2(L1_2, L2_2)
+    L0_2 = drop
+    L1_2 = L0_2
+    L0_2 = L0_2.Add
+    L2_2 = "2v2 1"
+    L0_2(L1_2, L2_2)
+end
+L14_1(L15_1, L16_1, L17_1)
+L15_1 = L12_1
+L14_1 = L12_1.Button
+L16_1 = "2v2 2"
+function L17_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2, L5_2, L6_2, L7_2, L8_2, L9_2, L10_2, L11_2, L12_2, L13_2
+    L0_2 = game
+    L0_2 = L0_2.Players
+    L0_2 = L0_2.LocalPlayer
+    L0_2 = L0_2.Character
+    L0_2 = L0_2.HumanoidRootPart
+    L1_2 = CFrame
+    L1_2 = L1_2.new
+    L2_2 = 31.9866238
+    L3_2 = 26.7015305
+    L4_2 = 30.0528526
+    L5_2 = 0.0730989948
+    L6_2 = 2.86677881E-8
+    L7_2 = -0.997324705
+    L8_2 = 8.39677106E-10
+    L9_2 = 1
+    L10_2 = 2.88062321E-8
+    L11_2 = 0.997324705
+    L12_2 = -2.94313729E-9
+    L13_2 = 0.0730989948
+    L1_2 = L1_2(L2_2, L3_2, L4_2, L5_2, L6_2, L7_2, L8_2, L9_2, L10_2, L11_2, L12_2, L13_2)
+    L0_2.CFrame = L1_2
+    L0_2 = drop
+    L1_2 = L0_2
+    L0_2 = L0_2.Add
+    L2_2 = "2v2 2"
+    L0_2(L1_2, L2_2)
+end
+L14_1(L15_1, L16_1, L17_1)
+L15_1 = L12_1
+L14_1 = L12_1.Button
+L16_1 = "2v2 3"
+function L17_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2, L5_2, L6_2, L7_2, L8_2, L9_2, L10_2, L11_2, L12_2, L13_2
+    L0_2 = game
+    L0_2 = L0_2.Players
+    L0_2 = L0_2.LocalPlayer
+    L0_2 = L0_2.Character
+    L0_2 = L0_2.HumanoidRootPart
+    L1_2 = CFrame
+    L1_2 = L1_2.new
+    L2_2 = 30.2066536
+    L3_2 = 26.6907616
+    L4_2 = 179.574493
+    L5_2 = 0.0869199112
+    L6_2 = 1.83825666E-8
+    L7_2 = -0.996215284
+    L8_2 = -1.7639131E-8
+    L9_2 = 1
+    L10_2 = 1.6913388E-8
+    L11_2 = 0.996215284
+    L12_2 = 1.61022609E-8
+    L13_2 = 0.0869199112
+    L1_2 = L1_2(L2_2, L3_2, L4_2, L5_2, L6_2, L7_2, L8_2, L9_2, L10_2, L11_2, L12_2, L13_2)
+    L0_2.CFrame = L1_2
+    L0_2 = drop
+    L1_2 = L0_2
+    L0_2 = L0_2.Add
+    L2_2 = "2v2 3"
+    L0_2(L1_2, L2_2)
+end
+L14_1(L15_1, L16_1, L17_1)
+L15_1 = L12_1
+L14_1 = L12_1.Seperator
+L14_1(L15_1)
+L15_1 = L12_1
+L14_1 = L12_1.Button
+L16_1 = "Rejoin"
+function L17_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2, L5_2, L6_2, L7_2, L8_2, L9_2, L10_2, L11_2, L12_2, L13_2
+    L0_2 = game
+    L0_2 = L0_2.Players
+    L0_2 = L0_2.LocalPlayer
+    L0_2 = L0_2.Character
+    L0_2 = L0_2.HumanoidRootPart
+    L1_2 = CFrame
+    L1_2 = L1_2.new
+    L2_2 = 30.2066536
+    L3_2 = 26.6907616
+    L4_2 = 179.574493
+    L5_2 = 0.0869199112
+    L6_2 = 1.83825666E-8
+    L7_2 = -0.996215284
+    L8_2 = -1.7639131E-8
+    L9_2 = 1
+    L10_2 = 1.6913388E-8
+    L11_2 = 0.996215284
+    L12_2 = 1.61022609E-8
+    L13_2 = 0.0869199112
+    L1_2 = L1_2(L2_2, L3_2, L4_2, L5_2, L6_2, L7_2, L8_2, L9_2, L10_2, L11_2, L12_2, L13_2)
+    L0_2.CFrame = L1_2
+    L0_2 = drop
+    L1_2 = L0_2
+    L0_2 = L0_2.Add
+    L2_2 = "2v2 3"
+    L0_2(L1_2, L2_2)
+end
+L14_1(L15_1, L16_1, L17_1)
+L15_1 = L12_1
+L14_1 = L12_1.Seperator
+L14_1(L15_1)
+L15_1 = L12_1
+L14_1 = L12_1.Button
+L16_1 = "Mypark"
+function L17_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2, L5_2
+    L0_2 = wait
+    L1_2 = 1
+    L0_2(L1_2)
+    L0_2 = game
+    L1_2 = L0_2
+    L0_2 = L0_2.GetService
+    L2_2 = "TeleportService"
+    L0_2 = L0_2(L1_2, L2_2)
+    L1_2 = L0_2
+    L0_2 = L0_2.Teleport
+    L2_2 = 7075761003
+    L3_2 = LocalPlayer
+    L0_2(L1_2, L2_2, L3_2)
+end
+L14_1(L15_1, L16_1, L17_1)
+L15_1 = L12_1
+L14_1 = L12_1.Button
+L16_1 = "Playground"
+function L17_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2, L5_2
+    L0_2 = game
+    L1_2 = L0_2
+    L0_2 = L0_2.GetService
+    L2_2 = "TeleportService"
+    L0_2 = L0_2(L1_2, L2_2)
+    L1_2 = L0_2
+    L0_2 = L0_2.Teleport
+    L2_2 = 7230689516
+    L3_2 = LocalPlayer
+    L0_2(L1_2, L2_2, L3_2)
+end
+L14_1(L15_1, L16_1, L17_1)
+L15_1 = L12_1
+L14_1 = L12_1.Button
+L16_1 = "Gym"
+function L17_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2, L5_2
+    L0_2 = game
+    L1_2 = L0_2
+    L0_2 = L0_2.GetService
+    L2_2 = "TeleportService"
+    L0_2 = L0_2(L1_2, L2_2)
+    L1_2 = L0_2
+    L0_2 = L0_2.Teleport
+    L2_2 = 7075760303
+    L3_2 = LocalPlayer
+    L0_2(L1_2, L2_2, L3_2)
+end
+L14_1(L15_1, L16_1, L17_1)
+L15_1 = L12_1
+L14_1 = L12_1.Button
+L16_1 = "Menu"
+function L17_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2, L5_2
+    L0_2 = game
+    L1_2 = L0_2
+    L0_2 = L0_2.GetService
+    L2_2 = "TeleportService"
+    L0_2 = L0_2(L1_2, L2_2)
+    L1_2 = L0_2
+    L0_2 = L0_2.Teleport
+    L2_2 = 7075737729
+    L3_2 = LocalPlayer
+    L0_2(L1_2, L2_2, L3_2)
+end
+L14_1(L15_1, L16_1, L17_1)
+L15_1 = L11_1
+L14_1 = L11_1.Button
+L16_1 = "FE Spin"
+function L17_1()
+    local L0_2, L1_2, L2_2, L3_2, L4_2, L5_2, L6_2, L7_2
+    L0_2 = L5_1
+    L1_2 = L0_2
+    L0_2 = L0_2.Notification
+    L2_2 = "Notification"
+    L3_2 = "Spin to win"
+    L4_2 = "Got it!"
+    L0_2(L1_2, L2_2, L3_2, L4_2)
+    L0_2 = 20
+    power = L0_2
+    L0_2 = game
+    L1_2 = L0_2
+    L0_2 = L0_2.GetService
+    L2_2 = "RunService"
+    L0_2 = L0_2(L1_2, L2_2)
+    L0_2 = L0_2.Stepped
+    L1_2 = L0_2
+    L0_2 = L0_2.connect
+    function L2_2()
+        local L0_3, L1_3
+        L0_3 = game
+        L0_3 = L0_3.Players
+        L0_3 = L0_3.LocalPlayer
+        L0_3 = L0_3.Character
+        L0_3 = L0_3.Head
+        L0_3.CanCollide = false
+        L0_3 = game
+        L0_3 = L0_3.Players
+        L0_3 = L0_3.LocalPlayer
+        L0_3 = L0_3.Character
+        L0_3 = L0_3.UpperTorso
+        L0_3.CanCollide = false
+        L0_3 = game
+        L0_3 = L0_3.Players
+        L0_3 = L0_3.LocalPlayer
+        L0_3 = L0_3.Character
+        L0_3 = L0_3.LowerTorso
+        L0_3.CanCollide = false
+        L0_3 = game
+        L0_3 = L0_3.Players
+        L0_3 = L0_3.LocalPlayer
+        L0_3 = L0_3.Character
+        L0_3 = L0_3.HumanoidRootPart
+        L0_3.CanCollide = false
+    end
+    L0_2(L1_2, L2_2)
+    L0_2 = wait
+    L1_2 = 0.1
+    L0_2(L1_2)
+    L0_2 = Instance
+    L0_2 = L0_2.new
+    L1_2 = "BodyThrust"
+    L0_2 = L0_2(L1_2)
+    L1_2 = game
+    L1_2 = L1_2.Players
+    L1_2 = L1_2.LocalPlayer
+    L1_2 = L1_2.Character
+    L1_2 = L1_2.HumanoidRootPart
+    L0_2.Parent = L1_2
+    L1_2 = Vector3
+    L1_2 = L1_2.new
+    L2_2 = power
+    L3_2 = 0
+    L4_2 = power
+    L1_2 = L1_2(L2_2, L3_2, L4_2)
+    L0_2.Force = L1_2
+    L1_2 = game
+    L1_2 = L1_2.Players
+    L1_2 = L1_2.LocalPlayer
+    L1_2 = L1_2.Character
+    L1_2 = L1_2.HumanoidRootPart
+    L1_2 = L1_2.Position
+    L0_2.Location = L1_2
+end
+L14_1(L15_1, L16_1, L17_1)
+L15_1 = L7_1
+L14_1 = L7_1.Channel
+L16_1 = "Legend Handles"
+L14_1(L15_1, L16_1)
 
